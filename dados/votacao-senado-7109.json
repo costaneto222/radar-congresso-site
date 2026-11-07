@@ -914,5 +914,37 @@
   }
  ],
  "fonte_url": "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594169",
- "analise": null
+ "analise": {
+  "titulo_curto": "Senado tira a redução da maioridade penal da PEC da Segurança",
+  "na_pratica": "Por enquanto nada muda para quem tem menos de 18 anos: as duas propostas de reduzir a maioridade penal (para 16 anos, ou 14 em crimes graves) saíram do texto da PEC da Segurança Pública e viraram propostas separadas, que ainda precisam ser votadas e podem nem andar.",
+  "resumo_leigo": "O Plenário do Senado votou dois pedidos do relator para tirar da PEC 18/2025 as emendas 84 e 87, que reduziam a idade a partir da qual uma pessoa responde a crime como adulto. Por 38 votos a 36, os pedidos foram aprovados: as emendas deixam de fazer parte da PEC e passam a tramitar sozinhas. A PEC seguiu sem esse trecho.",
+  "o_que_muda": [
+   {
+    "texto": "As emendas 84 e 87 deixam de integrar a PEC 18/2025 e passam a constituir proposições em separado, com tramitação própria.",
+    "fonte_url": "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594169"
+   },
+   {
+    "texto": "A emenda 84 fixava a maioridade penal em 16 anos como regra e em 14 anos para crimes hediondos, tortura, tráfico, terrorismo e organização criminosa.",
+    "fonte_url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/04871ea6-1d8d-4354-8270-25c550bdf686"
+   },
+   {
+    "texto": "A emenda 87 fixava a maioridade penal em 16 anos só para crimes hediondos, mantendo 18 anos para os demais.",
+    "fonte_url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/468c39b1-cc18-4ecc-a14e-77348e5215e9"
+   }
+  ],
+  "leitura": {
+   "quem_ganha": "Adolescentes de 14 a 17 anos, que continuam respondendo pela legislação especial (e não como adultos), e quem defendia aprovar a PEC da Segurança Pública sem esse tema dentro dela.",
+   "quem_paga": "Quem queria aprovar a redução da maioridade penal junto com a PEC: o tema perdeu o embalo da proposta principal e agora depende de uma votação própria.",
+   "categoria": "neutro",
+   "criterios": [
+    "efeito direto",
+    "curto prazo",
+    "sem efeito distributivo entre trabalho e capital"
+   ],
+   "confianca": "media",
+   "justificativa": "O conteúdo das emendas está nos textos oficiais, mas a decisão trata de responsabilização penal de adolescentes, não de renda, emprego, tributo ou patrimônio; os critérios de classe não se aplicam com clareza."
+  },
+  "numeros_fora_do_contexto": [],
+  "modelo": "claude-fable-5-1 (sessão Claude Code, primeira leva)"
+ }
 }

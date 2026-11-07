@@ -914,5 +914,32 @@
   }
  ],
  "fonte_url": "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594169",
- "analise": null
+ "analise": {
+  "titulo_curto": "Senado inclui as Forças Armadas no Fundo de Segurança Pública",
+  "na_pratica": "Se a PEC virar lei, o dinheiro do Fundo Nacional de Segurança Pública também poderá pagar ações das Forças Armadas na fronteira, em defesa civil e em operações de garantia da lei e da ordem. Por enquanto nada muda: a PEC ainda precisa terminar de tramitar e ser promulgada.",
+  "resumo_leigo": "O Plenário do Senado aprovou, por acordo e com 67 votos a favor e nenhum contra, a emenda 85 à PEC 18/2025. A emenda acrescenta um parágrafo ao artigo 144 da Constituição permitindo usar recursos do Fundo Nacional de Segurança Pública em ações das Forças Armadas em defesa civil, contra crimes na fronteira, no mar e em águas interiores, e quando convocadas para garantir a lei e a ordem.",
+  "o_que_muda": [
+   {
+    "texto": "A emenda 85 à PEC 18/2025 foi aprovada em votação nominal, nos termos do acordo de Plenário.",
+    "fonte_url": "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594169"
+   },
+   {
+    "texto": "O novo parágrafo do artigo 144 permite destinar recursos do Fundo Nacional de Segurança Pública a ações das Forças Armadas em defesa civil, contra delitos transfronteiriços e ambientais na fronteira, no mar e nas águas interiores, e em garantia da lei e da ordem.",
+    "fonte_url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0f3d23b0-2415-4b78-9ff9-d5ff7ae627fd"
+   }
+  ],
+  "leitura": {
+   "quem_ganha": "As Forças Armadas, que passam a poder receber verba de um fundo hoje voltado aos órgãos de segurança pública.",
+   "quem_paga": "Os demais destinatários do fundo (polícias e órgãos estaduais e municipais), que passam a dividir o mesmo dinheiro com mais um ator.",
+   "categoria": "neutro",
+   "criterios": [
+    "efeito direto",
+    "sem efeito distributivo entre trabalho e capital"
+   ],
+   "confianca": "media",
+   "justificativa": "O texto da emenda deixa claro o efeito, que é redistribuir verba entre órgãos do Estado; não há efeito identificável sobre renda, emprego, tributo ou patrimônio de trabalhadores ou empresas."
+  },
+  "numeros_fora_do_contexto": [],
+  "modelo": "claude-fable-5-1 (sessão Claude Code, primeira leva)"
+ }
 }

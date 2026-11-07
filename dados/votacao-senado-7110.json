@@ -914,5 +914,31 @@
   }
  ],
  "fonte_url": "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594169",
- "analise": null
+ "analise": {
+  "titulo_curto": "Senado aprova a PEC da Segurança Pública em 1º turno",
+  "na_pratica": "Por enquanto nada muda no seu dia a dia: uma mudança na Constituição só passa a valer depois de aprovada em dois turnos no Senado e na Câmara e promulgada. Os dados oficiais desta votação não mostram o conteúdo da PEC, só os artigos que ela altera, entre eles o 144, que trata da segurança pública.",
+  "resumo_leigo": "O Plenário do Senado aprovou, em primeiro turno, o texto da PEC 18/2025, conhecida como PEC da Segurança Pública, conforme os pareceres e sem contar um destaque votado à parte. Foram 73 votos a favor e nenhum contra. A ementa oficial lista os artigos da Constituição alterados (5º, 15, 22, 23, 24, 40, 49, 84, 103-B, 130-A e 144), mas não descreve as medidas.",
+  "o_que_muda": [
+   {
+    "texto": "A PEC 18/2025 foi aprovada em primeiro turno no Senado nos termos dos pareceres, ressalvado o destaque.",
+    "fonte_url": "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594169"
+   },
+   {
+    "texto": "A proposta altera os artigos 5º, 15, 22, 23, 24, 40, 49, 84, 103-B, 130-A e 144 da Constituição e acrescenta os artigos 144-A e 144-B.",
+    "fonte_url": "https://legis.senado.leg.br/dadosabertos/processo/9006525"
+   }
+  ],
+  "leitura": {
+   "quem_ganha": "Não dá para saber com os dados publicados: a ementa só lista artigos alterados.",
+   "quem_paga": "Não dá para saber com os dados publicados.",
+   "categoria": "indeterminado",
+   "criterios": [
+    "conteúdo não disponível no contexto"
+   ],
+   "confianca": "baixa",
+   "justificativa": "A descrição oficial e a ementa não dizem o que a PEC faz na prática; sem o texto, qualquer leitura de quem ganha ou paga seria chute."
+  },
+  "numeros_fora_do_contexto": [],
+  "modelo": "claude-fable-5-1 (sessão Claude Code, primeira leva)"
+ }
 }
