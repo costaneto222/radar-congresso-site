@@ -1,0 +1,176 @@
+{
+ "prompt_hash": "631e2d640469",
+ "prompt": "prompts/analise_votacao.md",
+ "pendentes": [
+  {
+   "votacao_id": "senado:7112",
+   "slug": "senado-7112",
+   "arquivo": "data/analises/senado-7112.json",
+   "titulo": "PEC da Segurança Pública",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/senado-7112.html",
+   "contexto": {
+    "casa": "Senado Federal",
+    "data_sessao": "2026-11-03",
+    "materia": "PEC 18/2025",
+    "ementa_materia": "Altera os arts. 5º, 15, 22, 23, 24, 40, 49, 84, 103-B, 130-A e 144 da Constituição Federal e o art.76 do Ato das Disposições Constitucionais Transitórias; acrescenta os arts. 144-A e 144-B à Constituição Federal e os arts. 139, 140 e 141 ao Ato das Disposições Constitucionais Transitórias; e dá outras providências.",
+    "descricao_oficial_da_votacao": "Votação nominal da Proposta de Emenda à Constituição nº 18, de 2025, nos termos do parecer da Comissão Diretora (2º Turno).",
+    "objeto_votado": "Votação nominal da Proposta de Emenda à Constituição nº 18, de 2025, nos termos do parecer da Comissão Diretora (2º Turno).",
+    "contexto_extra": "",
+    "resultado": "aprovado",
+    "placar": {
+     "sim": 75,
+     "nao": 0,
+     "abstencao": 0,
+     "obstrucao": 0,
+     "total": 75
+    },
+    "nao_votaram": {
+     "Presente, não registrou voto": 4,
+     "Ausência com justificativa oficial": 1,
+     "Presidiu (não vota)": 1
+    },
+    "orientacoes": [],
+    "contra_a_propria_bancada": [],
+    "emendas": [],
+    "fontes": [
+     "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594169",
+     "https://legis.senado.leg.br/dadosabertos/processo/9006525"
+    ]
+   }
+  },
+  {
+   "votacao_id": "senado:7111",
+   "slug": "senado-7111",
+   "arquivo": "data/analises/senado-7111.json",
+   "titulo": "PEC da Segurança Pública",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/senado-7111.html",
+   "contexto": {
+    "casa": "Senado Federal",
+    "data_sessao": "2026-11-03",
+    "materia": "PEC 18/2025",
+    "ementa_materia": "Altera os arts. 5º, 15, 22, 23, 24, 40, 49, 84, 103-B, 130-A e 144 da Constituição Federal e o art.76 do Ato das Disposições Constitucionais Transitórias; acrescenta os arts. 144-A e 144-B à Constituição Federal e os arts. 139, 140 e 141 ao Ato das Disposições Constitucionais Transitórias; e dá outras providências.",
+    "descricao_oficial_da_votacao": "Votação nominal da Emenda nº 85 à Proposta de Emenda à Constituição nº 18, de 2025, nos termos do acordo de Plenário.",
+    "objeto_votado": "Votação nominal da Emenda nº 85 à Proposta de Emenda à Constituição nº 18, de 2025, nos termos do acordo de Plenário.",
+    "contexto_extra": "",
+    "resultado": "aprovado",
+    "placar": {
+     "sim": 67,
+     "nao": 0,
+     "abstencao": 0,
+     "obstrucao": 0,
+     "total": 67
+    },
+    "nao_votaram": {
+     "Presente, não registrou voto": 12,
+     "Ausência com justificativa oficial": 1,
+     "Presidiu (não vota)": 1
+    },
+    "orientacoes": [],
+    "contra_a_propria_bancada": [],
+    "emendas": [
+     {
+      "numero": 85,
+      "autoria": "Senador Carlos Portinho (PL/RJ), Senador Jorge Seif (PL/SC), Senador Jaime Bagattoli (PL/RO), Senadora Damares Alves (REPUBLICANOS/DF), Senador Eduardo Gomes (PL/TO), Senador Marcos do Val (AVANTE/ES), Senador Omar Aziz (PSD/AM), Senador Zequinha Marinho (PODE/PA), Senador Wilder Morais (PL/GO), Senador Izalci Lucas (PL/DF), Senador Vanderlan Cardoso (PSD/GO), Senador Chico Rodrigues (PSB/RR), Senador Sergio Moro (PL/PR), Senador Wellington Fagundes (PL/MT), Senador Oriovisto Guimarães (PSDB/PR), Senadora Roberta Acioly (REPUBLICANOS/RR), Senador Hamilton Mourão (REPUBLICANOS/RS), Senador Efraim Filho (PL/PB), Senador Luis Carlos Heinze (PP/RS), Senador Dr. Hiran (PP/RR), Senador Giordano (PODE/SP), Senador Nelsinho Trad (PSD/MS), Senador Marcos Rogério (PL/RO), Senador Marcio Bittar (PL/AC), Senador Magno Malta (PL/ES), Senador Astronauta Marcos Pontes (PL/SP), Senador Rogerio Marinho (PL/RN), Senadora Tereza Cristina (PP/MS)",
+      "descricao": "Emenda à PEC 18/2025 - defesa nacional",
+      "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0f3d23b0-2415-4b78-9ff9-d5ff7ae627fd",
+      "texto": "SENADO FEDERAL\nGabinete do Senador Carlos Portinho\nEMENDA Nº \n(à PEC 18/2025)\nAcrescente-se § 11-A ao art. 144 da Constituição Federal, na forma\nproposta pelo art. 1º da Proposta, nos termos a seguir:\nArt. 144.......................................................................................\n.....................................................................................................\n§ 11-A. Os recursos do Fundo Nacional de Segurança\nPública poderão ser destinados às ações desenvolvidas pelas\nForças Armadas quando em atividades de proteção e defesa civil,\ncontra delitos transfronteiriços e ambientais na faixa de fronteira\nterrestre, no mar e nas águas interiores, e quando convocados para\natuarem na garantia da lei e da ordem.\n..................................................................................................” (NR)\nJUSTIFICAÇÃO\nA presente proposta de alteração à PEC nº 18/2025 tem por objetivo\naprimorar o desenho constitucional do financiamento da segurança pública,\nconferindo maior racionalidade e efetividade ao emprego dos recursos do\nFundo Nacional de Segurança Pública. Especificamente, busca-se explicitar a\npossibilidade de utilização desses recursos nas hipóteses em que as Forças\nArmadas atuem de forma subsidiária, em estrita observância às competências\nconstitucionais já previstas, integrando operações de segurança pública, defesa\ncivil, proteção ambiental e enfrentamento a delitos transfronteiriços.\nSF/26588.67209-56 (LexEdit*)\nO contexto contemporâneo da segurança pública brasileira é marcado\npela atuação cada vez mais articulada e transnacional do crime organizado, cujas\natividades extrapolam fronteiras estaduais e nacionais. Organizações criminosas e\nmilícias privadas operam com elevado grau de sofisticação, valendo-se de\nrotas terrestres, marítimas e fluviais, explorando regiões de fronteira, áreas\nambientalmente sensíveis e espaços de limitada presença estatal. Esse cenário\nimpõe desafios que exigem planejamento estratégico nacional, interoperabilidade\nentre órgãos e capacidade operacional ampliada, em consonância com os objetivos\ncentrais da PEC 18/2025.\nApesar do avanço institucional representado pela\nconstitucionalização do Sistema Único de Segurança Pública, persiste uma\nlacuna estrutural no que se refere ao custeio de operações integradas de\nmaior complexidade. A atuação conjunta entre forças federais, estaduais e,\nexcepcionalmente, as Forças Armadas, demanda recursos compatíveis com a\nnatureza das missões, sob pena de comprometer a eficácia das ações coordenadas.\nA ausência de previsão expressa quanto à destinação de recursos do Fundo\nNacional de Segurança Pública para essas operações gera insegurança jurídica e\nlimita a capacidade de resposta do Estado frente a ameaças de alcance nacional.\nImporta destacar que a alteração proposta não tem por finalidade\nfinanciar a manutenção ordinária das Forças Armadas, nem ampliar suas\natribuições permanentes. Trata-se, exclusivamente, de viabilizar o custeio das\naç"
+     }
+    ],
+    "fontes": [
+     "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594169",
+     "https://legis.senado.leg.br/dadosabertos/processo/9006525",
+     "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0f3d23b0-2415-4b78-9ff9-d5ff7ae627fd"
+    ]
+   }
+  },
+  {
+   "votacao_id": "senado:7110",
+   "slug": "senado-7110",
+   "arquivo": "data/analises/senado-7110.json",
+   "titulo": "PEC da Segurança Pública",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/senado-7110.html",
+   "contexto": {
+    "casa": "Senado Federal",
+    "data_sessao": "2026-11-03",
+    "materia": "PEC 18/2025",
+    "ementa_materia": "Altera os arts. 5º, 15, 22, 23, 24, 40, 49, 84, 103-B, 130-A e 144 da Constituição Federal e o art.76 do Ato das Disposições Constitucionais Transitórias; acrescenta os arts. 144-A e 144-B à Constituição Federal e os arts. 139, 140 e 141 ao Ato das Disposições Constitucionais Transitórias; e dá outras providências.",
+    "descricao_oficial_da_votacao": "Votação nominal da Proposta de Emenda à Constituição nº 18, de 2025, nos termos dos pareceres, ressalvado o destaque (1º Turno).",
+    "objeto_votado": "Votação nominal da Proposta de Emenda à Constituição nº 18, de 2025, nos termos dos pareceres, ressalvado o destaque (1º Turno).",
+    "contexto_extra": "",
+    "resultado": "aprovado",
+    "placar": {
+     "sim": 73,
+     "nao": 0,
+     "abstencao": 0,
+     "obstrucao": 0,
+     "total": 73
+    },
+    "nao_votaram": {
+     "Presente, não registrou voto": 6,
+     "Ausência com justificativa oficial": 1,
+     "Presidiu (não vota)": 1
+    },
+    "orientacoes": [],
+    "contra_a_propria_bancada": [],
+    "emendas": [],
+    "fontes": [
+     "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594169",
+     "https://legis.senado.leg.br/dadosabertos/processo/9006525"
+    ]
+   }
+  },
+  {
+   "votacao_id": "senado:7109",
+   "slug": "senado-7109",
+   "arquivo": "data/analises/senado-7109.json",
+   "titulo": "PEC da Segurança Pública",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/senado-7109.html",
+   "contexto": {
+    "casa": "Senado Federal",
+    "data_sessao": "2026-11-03",
+    "materia": "PEC 18/2025",
+    "ementa_materia": "Altera os arts. 5º, 15, 22, 23, 24, 40, 49, 84, 103-B, 130-A e 144 da Constituição Federal e o art.76 do Ato das Disposições Constitucionais Transitórias; acrescenta os arts. 144-A e 144-B à Constituição Federal e os arts. 139, 140 e 141 ao Ato das Disposições Constitucionais Transitórias; e dá outras providências.",
+    "descricao_oficial_da_votacao": "Votação nominal dos Requerimentos nºs 741 e 742, de 2026, do Relator, para que as Emendas nºs 84 e 87 passem a constituir proposições em separado.",
+    "objeto_votado": "Votação nominal dos Requerimentos nºs 741 e 742, de 2026, do Relator, para que as Emendas nºs 84 e 87 passem a constituir proposições em separado.",
+    "contexto_extra": "",
+    "resultado": "aprovado",
+    "placar": {
+     "sim": 38,
+     "nao": 36,
+     "abstencao": 1,
+     "obstrucao": 0,
+     "total": 75
+    },
+    "nao_votaram": {
+     "Ausência com justificativa oficial": 1,
+     "Presente, não registrou voto": 4,
+     "Presidiu (não vota)": 1
+    },
+    "orientacoes": [],
+    "contra_a_propria_bancada": [],
+    "emendas": [
+     {
+      "numero": 84,
+      "autoria": "Senador Rogerio Marinho (PL/RN), Senador Carlos Portinho (PL/RJ), Senador Jorge Seif (PL/SC), Senador Eduardo Gomes (PL/TO), Senador Marcos do Val (AVANTE/ES), Senador Zequinha Marinho (PODE/PA), Senador Wilder Morais (PL/GO), Senador Laércio Oliveira (PP/SE), Senador Angelo Coronel (REPUBLICANOS/BA), Senador Nelsinho Trad (PSD/MS), Senador Izalci Lucas (PL/DF), Senador Vanderlan Cardoso (PSD/GO), Senador Jaime Bagattoli (PL/RO), Senador Styvenson Valentim (PODE/RN), Senador Sargento Reginauro (PSDB/CE), Senador Oriovisto Guimarães (PSDB/PR), Senador Wellington Fagundes (PL/MT), Senador Hamilton Mourão (REPUBLICANOS/RS), Senador Efraim Filho (PL/PB), Senadora Roberta Acioly (REPUBLICANOS/RR), Senador Luis Carlos Heinze (PP/RS), Senador Sergio Moro (PL/PR), Senador Ciro Nogueira (PP/PI), Senadora Tereza Cristina (PP/MS), Senador Esperidião Amin (PP/SC), Senador Dr. Hiran (PP/RR), Senador Alan Rick (REPUBLICANOS/AC), Senador Magno Malta (PL/ES), Senador Flávio Bolsonaro (PL/RJ), Senador Renzo Braz (PP/MG), Senador Marcos Rogério (PL/RO), Senador Marcio Bittar (PL/AC), Senador Confúcio Moura (MDB/RO), Senador Giordano (PODE/SP), Senador Cleitinho (REPUBLICANOS/MG), Senador Astronauta Marcos Pontes (PL/SP), Senador Jayme Campos (UNIÃO/MT)",
+      "descricao": "Emenda  à PEC 18/2025 - redução da maioridade penal",
+      "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/04871ea6-1d8d-4354-8270-25c550bdf686",
+      "texto": "SENADO FEDERAL\nGabinete do Senador Rogério Marinho\nEMENDA Nº \n(à PEC 18/2025)\nDê-se nova redação ao art. 228 da Constituição Federal, na forma\nproposta pelo art. 1º da Proposta, nos termos a seguir:\nArt. 228. São penalmente inimputáveis os menores de 16 (dezesseis)\nanos, sujeitos às normas da legislação especial aplicável.\nParágrafo único. A idade de que trata o caput será de 14 (quatorze)\nanos em casos de crimes definidos como hediondos, tortura, tráfico ilícito de\nentorpecentes e drogas afins, terrorismo, organização criminosa, associação\ncriminosa e outros definidos em lei.”\nJUSTIFICAÇÃO\nA intensificação da participação de adolescentes na prática de crimes\ngraves, sobretudo os cometidos com violência ou grave ameaça à pessoa,\ntem colocado em xeque a suficiência do atual sistema de responsabilização\nsocioeducativa, cujo teto de internação é frequentemente apontado como\nincompatível com a gravidade de condutas como homicídio, latrocínio e estupro.\nA sociedade brasileira vem cobrando, com frequência crescente, uma resposta\ninstitucional à altura desse descompasso.\nA presente emenda responde a esse descompasso por meio de desenho\ngradual e proporcional, que correlaciona idade e gravidade da conduta em vez\nde impor corte etário único. O caput do art. 228 fixa a inimputabilidade em\n16 anos como regra geral, e o parágrafo único reduz esse limiar a 14 anos\nexclusivamente para o rol de crimes que o próprio ordenamento já trata como de\nmaior reprovabilidade em outras searas, a exemplo dos hediondos, da tortura, do\nSF/26999.17143-69 (LexEdit)\ntráfico de entorpecentes, do terrorismo e da atuação em organização ou associação\ncriminosa. Esse recorte não é estranho à experiência internacional: países como a\nInglaterra, o País de Gales e a Irlanda do Norte fixam a responsabilidade penal aos\n10 anos, Países Baixos e Canadá aos 12, França aos 13 e Escócia aos 12, todos abaixo\ndo parâmetro brasileiro atual, ainda que sob desenhos institucionais distintos do\naqui proposto.\nA ausência de resposta penal proporcional para esse núcleo de crimes\ngraves tem, ainda, um efeito colateral conhecido: o aliciamento de adolescentes\npor organizações criminosas, que se valem da inimputabilidade para empregá-los\nna execução de tarefas de maior risco, na certeza de que a resposta institucional\nserá branda e temporária. Reduzir esse incentivo é também reduzir o espaço de\ncooptação de menores pelo crime organizado.\nA medida reflete, por fim, um anseio social consolidado.\nLevantamento do Datafolha de junho de 2026 registrou 79% de apoio da população\nbrasileira à redução da maioridade penal, patamar que, mesmo em recuo frente a\nséries anteriores, permanece como posição amplamente majoritária em todos os\nsegmentos e faixas etárias consultados.\nDiante do exposto, por reputar a proposta uma resposta proporcional\ne necessária ao anseio social por maior efetividade na responsabilização de\nadolescentes autores de crimes graves, contamos com o apoio dos Pares para sua\naprovação.\nSala das se"
+     },
+     {
+      "numero": 87,
+      "autoria": "Senador Camilo Santana (PT/CE), Senador Otto Alencar (PSD/BA), Senador Marcelo Castro (MDB/PI), Senador Omar Aziz (PSD/AM), Senador Eduardo Braga (MDB/AM), Senador Veneziano Vital do Rêgo (MDB/PB), Senador Beto Faro (PT/PA), Senador Chico Rodrigues (PSB/RR), Senador Jorge Kajuru (PSB/GO), Senadora Eliziane Gama (PSD/MA), Senador Sérgio Petecão (PSD/AC), Senador Fabiano Contarato (PT/ES), Senador Carlos Fávaro (PSD/MT), Senador Cid Gomes (PSB/CE), Senador Renan Filho (MDB/AL), Senador Cleitinho (REPUBLICANOS/MG), Senador Jaques Wagner (PT/BA), Senadora Daniella Ribeiro (PP/PB), Senadora Ana Paula Lobato (PSB/MA), Senador Flávio Arns (PSB/PR), Senador Rogério Carvalho (PT/SE), Senador Confúcio Moura (MDB/RO), Senador Irajá (PSD/TO), Senadora Soraya Thronicke (PSB/MS), Senadora Leany Lemos (PSB/DF), Senador Jader Barbalho (MDB/PA), Senador Renan Calheiros (MDB/AL), Senador Weverton (PDT/MA)",
+      "descricao": "Emenda  à PEC 18/2025 - Versão Final Revisada",
+      "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/468c39b1-cc18-4ecc-a14e-77348e5215e9",
+      "texto": "SENADO FEDERAL\nGabinete do Senador Camilo Santana\nEMENDA Nº \n(à PEC 18/2025)\nDê-se nova redação ao art. 228 da Constituição Federal, na forma\nproposta pelo art. 1º da Proposta, nos termos a seguir:\n“Art. 228. A imputabilidade penal será aos:\nI - dezesseis anos, para os crimes considerados formalmente\nhediondos; e\nII - dezoito anos, para os demais crimes, ficando sujeitos às normas da\nlegislação especial aplicável.\nJUSTIFICAÇÃO\nA presente Emenda dá nova redação ao art. 228 da Constituição\nFederal. Ela antecipa para os 16 anos a imputabilidade penal nos crimes hediondos\ne mantém em 18 anos a regra geral para os demais crimes, sujeitos os menores à\nlegislação especial.\nA segurança pública constitui dever do Estado e direito de todos,\nnos termos do art. 144 da Constituição Federal. Sua efetivação exige prevenção,\ninvestigação, repressão qualificada à criminalidade e aperfeiçoamento dos\nmecanismos legais de responsabilização. Isso é especialmente necessário diante da\natuação de organizações criminosas que recrutam adolescentes para a prática de\ninfrações penais.\nO ordenamento brasileiro já reconhece aos 16 anos discernimento\npara atos de elevada responsabilidade. Nessa idade, o jovem pode votar (art. 14, §\n1º, II, “c”, CF), passa a ter capacidade civil relativa e pode ser emancipado (arts. 4º\nSF/26049.56079-83 (LexEdit*)\ne 5º do Código Civil), e pode trabalhar (art. 7º, XXXIII, CF). Não é coerente presumir,\nde forma absoluta, que quem pode escolher os governantes do País seja incapaz\nde compreender a ilicitude de um homicídio qualificado, de um latrocínio ou de\num estupro.\nA proposta não desconsidera as particularidades do desenvolvimento\ndos adolescentes. Por isso, restringe a antecipação da imputabilidade aos crimes\nque o próprio ordenamento já trata como de máxima reprovabilidade. Para os\ndemais, preserva integralmente o sistema socioeducativo. Em todos os casos, ficam\nasseguradas as garantias constitucionais: devido processo legal, ampla defesa,\ncontraditório e individualização da pena.\nAplicado indistintamente, o limite de 18 anos tem sido explorado por\norganizações criminosas. Elas recrutam adolescentes para as tarefas de maior risco\nporque, mesmo nos crimes mais graves, a resposta estatal se limita ao teto de três\nanos de internação previsto no Estatuto da Criança e do Adolescente.\nA experiência comparada mostra que o parâmetro proposto não é\nestranho às democracias desenvolvidas. Em Portugal, membro da OCDE, considera\ninimputáveis apenas os menores de 16 anos (art. 19 do Código Penal português) e\nmantém regime penal especial para jovens até 21 anos. Na França, adolescentes de\n16 e 17 anos podem, em determinadas circunstâncias, receber penas aplicáveis a\nadultos. Em 2026, a Suécia reduziu de 15 para 14 anos a idade de responsabilidade\npenal para crimes graves, justamente em resposta ao aliciamento de menores por\nfacções criminosas.\nA redução da maioridade penal para 16 anos, portanto, alinha o\nBrasil à legislação de diversas democracias moderna"
+     }
+    ],
+    "fontes": [
+     "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594169",
+     "https://legis.senado.leg.br/dadosabertos/processo/9006525",
+     "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/04871ea6-1d8d-4354-8270-25c550bdf686",
+     "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/468c39b1-cc18-4ecc-a14e-77348e5215e9"
+    ]
+   }
+  }
+ ]
+}

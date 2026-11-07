@@ -29,8 +29,10 @@ Nenhum dado vem de notícia, rede social ou vídeo.</p>
 <ul>
   <li><strong>Fatos</strong>: descrição oficial, placar, orientação das bancadas, voto de cada parlamentar e código oficial de quem não votou.
   Tudo isso é contado pelo código a partir da lista oficial de votos; o modelo de IA nunca gera esses números.</li>
-  <li><strong>Leitura da IA</strong>: um bloco separado e rotulado, gerado por um modelo de linguagem (claude-opus-5-5) a partir só dos dados da votação
-  (ementa, descrição, textos de emendas, placar e orientações). É opinião do modelo, com grau de confiança. Ela nunca recomenda voto.</li>
+  <li><strong>Leitura da IA</strong>: um bloco separado e rotulado, escrito por um modelo de linguagem (claude-opus-5-5) a partir só dos dados da votação
+  (ementa, descrição, textos de emendas, placar e orientações). Começa por "Na prática, para você": o que muda, ou não muda, na vida de quem lê.
+  Depois vem quem ganha e quem paga, com grau de confiança. É opinião do modelo e nunca recomenda voto.
+  A leitura é escrita uma vez por dia, de manhã, por uma rotina agendada; uma votação nova aparece primeiro só com os fatos.</li>
 </ul>
 
 <h2>Critérios da leitura "quem ganha, quem paga"</h2>
@@ -62,8 +64,7 @@ Na Câmara a lista só traz quem registrou voto; quem está em exercício e não
 </ul>
 
 <h2>Operação</h2>
-<p>Custo acumulado das leituras da IA: US$ 0.0.
-O radar consulta os Dados Abertos a cada 15 minutos em dia de sessão (e de hora em hora fora disso);
+<p>O radar consulta os Dados Abertos a cada 15 minutos em dia de sessão (e de hora em hora fora disso);
 o site só é republicado quando algum dado muda. Dado mais recente: 07/11/2026 06:02.</p>
 <p>Para receber aviso de cada votação nova, assine o <a href="feed.xml">feed Atom</a> em qualquer app de RSS.</p>
 </article>

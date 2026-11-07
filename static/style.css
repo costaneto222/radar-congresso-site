@@ -36,6 +36,12 @@ h3 { font-size: 1rem; margin: 18px 0 6px; }
 .apertada { margin: 6px 0; padding: 8px 10px; border-left: 4px solid #b45309; background: var(--aviso-bg); border-radius: 6px; line-height: 1.45; }
 details.bancadas { margin-top: 8px; } details.bancadas summary { cursor: pointer; color: var(--dim); }
 .resumo { margin: 4px 0 8px; }
+.napratica { margin: 4px 0 8px; padding: 8px 10px; background: var(--leitura-bg); border-radius: 6px; border-left: 4px solid var(--neutro); line-height: 1.45; }
+.rotulo-mini { display: inline-block; margin-left: 6px; padding: 0 6px; border-radius: 6px; background: var(--fg); color: var(--bg); font-size: .68rem; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; vertical-align: middle; }
+.napratica-bloco { background: var(--leitura-bg); border-left: 6px solid var(--neutro); }
+.napratica-bloco h2 { margin-top: 0; }
+.napratica-bloco .rotulo { display: inline-block; margin-left: 8px; padding: 2px 8px; border-radius: 6px; background: var(--fg); color: var(--bg); font-size: .72rem; font-weight: 600; vertical-align: middle; text-transform: uppercase; letter-spacing: .03em; }
+.napratica-texto { font-size: 1.1rem; line-height: 1.5; margin: 4px 0 8px; }
 .tipo { margin: 0; font-size: .85rem; text-transform: uppercase; letter-spacing: .03em; }
 .etapa { margin: 4px 0 6px; line-height: 1.45; }
 .oficial { margin: 2px 0 8px; font-size: .85rem; }
