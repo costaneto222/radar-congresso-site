@@ -1,0 +1,26 @@
+{
+ "id": "camara:2410357-44",
+ "casa": "camara",
+ "data_iso": "2026-11-04",
+ "materia": "PL 5902/2023",
+ "descricao": "Aprovada a Subemenda Substitutiva ao Projeto de Lei nº 5.902, de 2023, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania.",
+ "resultado": "aprovado",
+ "placar": {
+  "sim": 0,
+  "nao": 0,
+  "abstencao": 0,
+  "obstrucao": 0,
+  "presente_sem_voto": 0,
+  "presidencia": 0,
+  "ausencia_justificada": 0,
+  "nao_compareceu": 0,
+  "outros": 0,
+  "total": 0
+ },
+ "orientacoes": [],
+ "rebeldes": [],
+ "nao_registrados": [],
+ "votos": [],
+ "fonte_url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410357-44",
+ "analise": null
+}

@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sobre · Radar do Congresso</title>
+<meta name="description" content="Cada votação do Plenário da Câmara e do Senado, com o voto de cada parlamentar e fontes oficiais.">
+<link rel="stylesheet" href="static/style.css">
+<link rel="alternate" type="application/atom+xml" title="Radar do Congresso" href="feed.xml">
+</head>
+<body>
+<header class="topo">
+  <a class="marca" href="index.html">Radar do Congresso</a>
+  <nav>
+    <a href="index.html">Votações</a>
+    <a href="parlamentares.html">Parlamentares</a>
+    <a href="sobre.html">Sobre</a>
+    <a href="feed.xml" title="Feed Atom para receber aviso em qualquer app de RSS">Feed</a>
+  </nav>
+</header>
+<main>
+<article class="sobre">
+<h1>Como este site funciona</h1>
+<p>Um programa consulta, várias vezes por dia, as APIs de Dados Abertos da <a href="https://dadosabertos.camara.leg.br/" rel="noopener">Câmara dos Deputados</a>
+e do <a href="https://legis.senado.leg.br/dadosabertos/" rel="noopener">Senado Federal</a> e publica cada votação do Plenário assim que ela aparece lá.
+Nenhum dado vem de notícia, rede social ou vídeo.</p>
+
+<h2>O que é fato e o que é opinião</h2>
+<ul>
+  <li><strong>Fatos</strong>: descrição oficial, placar, orientação das bancadas, voto de cada parlamentar e código oficial de quem não votou.
+  Tudo isso é contado pelo código a partir da lista oficial de votos; o modelo de IA nunca gera esses números.</li>
+  <li><strong>Leitura da IA</strong>: um bloco separado e rotulado, gerado por um modelo de linguagem (claude-opus-5-5) a partir só dos dados da votação
+  (ementa, descrição, textos de emendas, placar e orientações). É opinião do modelo, com grau de confiança. Ela nunca recomenda voto.</li>
+</ul>
+
+<h2>Critérios da leitura "quem ganha, quem paga"</h2>
+<ul>
+  <li><strong>Beneficia trabalhadores</strong>: amplia renda, emprego, direitos trabalhistas ou previdenciários, serviços públicos, proteção social ou garantias individuais da maioria que vive de salário.</li>
+  <li><strong>Beneficia capital e elites</strong>: amplia lucro, patrimônio, isenção tributária, poder regulatório ou blindagem jurídica de empresas, grandes proprietários, sistema financeiro ou elites políticas e econômicas.</li>
+  <li><strong>Os dois lados</strong>: efeito relevante para ambos (o texto diz quem ganha mais).</li>
+  <li><strong>Neutro</strong>: efeito distributivo irrelevante (homenagens, datas, ajustes formais).</li>
+  <li><strong>Não dá para saber</strong>: os dados publicados não permitem conhecer o conteúdo ou o efeito. Nesse caso a confiança é sempre baixa.</li>
+</ul>
+<p>Efeito direto pesa mais que indireto; curto prazo mais que longo prazo. O prompt completo está versionado no repositório do projeto e o hash dele aparece em cada leitura.</p>
+
+<h2>Ausências: nunca "faltou"</h2>
+<p>Quem não votou aparece com o código que a própria Casa publicou e o seu significado. No Senado todo senador consta da lista, com código.
+Na Câmara a lista só traz quem registrou voto; quem está em exercício e não consta recebe o rótulo <em>não registrou voto (inferido)</em>, porque a Câmara não publica o motivo.</p>
+<details>
+  <summary>Tabela de códigos oficiais</summary>
+  <div class="rolagem"><table class="tabela-simples">
+    <thead><tr><th>Casa</th><th>Código</th><th>Descrição oficial</th><th>Como o site classifica</th></tr></thead>
+    <tbody>
+<tr><td>Senado</td><td>Sim</td><td>Sim</td><td>Sim</td></tr><tr><td>Senado</td><td>Não</td><td>Não</td><td>Não</td></tr><tr><td>Senado</td><td>Abstenção</td><td>Abstenção</td><td>Abstenção</td></tr><tr><td>Senado</td><td>Presidente (art. 51 RISF)</td><td>Presidente (art. 51 do Regimento Interno do Senado: não vota)</td><td>Presidiu (não vota)</td></tr><tr><td>Senado</td><td>P-NRV</td><td>Presente, não registrou voto</td><td>Presente, não registrou voto</td></tr><tr><td>Senado</td><td>P-OD</td><td>Presente, obstrução declarada</td><td>Obstrução</td></tr><tr><td>Senado</td><td>OB</td><td>Em obstrução declarada</td><td>Obstrução</td></tr><tr><td>Senado</td><td>NR</td><td>Não registrou voto</td><td>Presente, não registrou voto</td></tr><tr><td>Senado</td><td>NCom</td><td>Não compareceu</td><td>Não compareceu</td></tr><tr><td>Senado</td><td>PR</td><td>Presidiu a votação</td><td>Presidiu (não vota)</td></tr><tr><td>Senado</td><td>PS</td><td>Presidiu a sessão</td><td>Presidiu (não vota)</td></tr><tr><td>Senado</td><td>AP</td><td>Atividade parlamentar</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>AFO</td><td>Afastamento do exercício</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>AUS</td><td>Comunicação de ausência</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>CAS</td><td>Cassação de registro/diploma pela Justiça Eleitoral</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>DJ</td><td>Afastamento por decisão judicial</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>EP</td><td>No exercício da Presidência da República</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>EPR</td><td>No exercício da Presidência da República</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>FAL</td><td>Falecimento</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>GR</td><td>Grupo de risco</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>IL</td><td>Interrupção de licença</td><td>Outro</td></tr><tr><td>Senado</td><td>IMP</td><td>Impugnação de mandato</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>L1</td><td>Missão política/cultural</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>L2</td><td>Licença saúde</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>L3</td><td>Licença particular</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>L4</td><td>Representação da Casa no país/exterior</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>L5</td><td>Candidatura à Presidência/Vice-Presidência</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>L6</td><td>Solenidade internacional/nacional/regional</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>L7</td><td>Dispositivo não citado</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>LA</td><td>Licença à adotante</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>LAF</td><td>Licença por motivo de doença em pessoa da família</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>LAP</td><td>Licença paternidade ou ao adotante</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>LC</td><td>Candidatura à Presidência/Vice-Presidência</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>LCS</td><td>Licença com convocação de suplente</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>LEG</td><td>Licença eleições gerais</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>LG</td><td>Licença à gestante</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>LGA</td><td>Licença para casamento</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>LL</td><td>Privação de liberdade</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>LN</td><td>Licença nojo</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>LP</td><td>Licença particular</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>LPA</td><td>Licença particular</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>LS</td><td>Licença saúde</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>LSP</td><td>Licença saúde-particular</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>MER</td><td>Presente no Parlamento do Mercosul</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>MIS</td><td>Missão da Casa no país/exterior</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>REP</td><td>Representação em solenidade internacional/nacional/regional</td><td>Ausência com justificativa oficial</td></tr><tr><td>Senado</td><td>PSF</td><td>Presente no Senado Federal</td><td>Presente, não registrou voto</td></tr><tr><td>Senado</td><td>SF</td><td>Presente no Senado Federal</td><td>Presente, não registrou voto</td></tr><tr><td>Senado</td><td>PER</td><td>Perda de mandato</td><td>Outro</td></tr><tr><td>Senado</td><td>REN</td><td>Renúncia</td><td>Outro</td></tr><tr><td>Senado</td><td>RET</td><td>Retorno do titular</td><td>Outro</td></tr><tr><td>Senado</td><td>RR</td><td>Requerimento de retirada</td><td>Outro</td></tr><tr><td>Senado</td><td>TER</td><td>Término do mandato</td><td>Outro</td></tr><tr><td>Senado</td><td>DIS</td><td>Dissolução da Câmara</td><td>Outro</td></tr><tr><td>Senado</td><td>NA</td><td>Dispositivo não citado</td><td>Outro</td></tr><tr><td>Senado</td><td>NH</td><td>Não houve votação</td><td>Outro</td></tr><tr><td>Senado</td><td>SI</td><td>Votação simbólica</td><td>Outro</td></tr><tr><td>Senado</td><td>VO</td><td>Votou (voto secreto)</td><td>Outro</td></tr><tr><td>Senado</td><td>VS</td><td>Votação secreta</td><td>Outro</td></tr><tr><td>Câmara</td><td>Sim</td><td>Sim</td><td>Sim</td></tr><tr><td>Câmara</td><td>Não</td><td>Não</td><td>Não</td></tr><tr><td>Câmara</td><td>Abstenção</td><td>Abstenção</td><td>Abstenção</td></tr><tr><td>Câmara</td><td>Obstrução</td><td>Obstrução</td><td>Obstrução</td></tr><tr><td>Câmara</td><td>Artigo 17</td><td>Artigo 17 do Regimento Interno da Câmara: presidente da sessão, não vota</td><td>Presidiu (não vota)</td></tr><tr><td>Câmara</td><td>Branco</td><td>Voto em branco</td><td>Abstenção</td></tr><tr><td>Câmara</td><td>(ausente da lista)</td><td>Não registrou voto (inferido: não consta na lista oficial de votos desta votação)</td><td>Não registrou voto (inferido)</td></tr>    </tbody>
+  </table></div>
+</details>
+
+<h2>Correções</h2>
+<ul class="correcoes">
+  <li><strong>2026-11-06</strong><br>
+    Lançamento do site. Nenhuma correção registrada ainda.<br><span class="dim">Correção: Erros podem ser apontados pelo repositório do projeto; toda correção entra aqui com data e fonte.</span></li>
+</ul>
+
+<h2>Operação</h2>
+<p>Custo acumulado das leituras da IA: US$ 0.0.
+Última coleta: 2026-11-07 06:59 (senado, 0 novas, 0 atualizadas).</p>
+<p>Para receber aviso de cada votação nova, assine o <a href="feed.xml">feed Atom</a> em qualquer app de RSS.</p>
+</article>
+</main>
+<footer class="rodape">
+  <p>Dados oficiais das APIs de Dados Abertos da Câmara dos Deputados e do Senado Federal. Placar, votos e ausências
+  são contados pelo código a partir desses dados. A "leitura da IA" é opinião do modelo e vem sempre rotulada.</p>
+  <p>Gerado em 07/11/2026 06:59. <a href="sobre.html">Critérios, códigos e correções</a>.</p>
+</footer>
+<script src="static/app.js"></script>
+</body>
+</html>

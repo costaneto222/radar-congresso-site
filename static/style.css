@@ -1,0 +1,81 @@
+:root {
+  --bg: #f7f6f2; --fg: #1d1d1b; --dim: #6b6a66; --card: #ffffff; --line: #e3e1da;
+  --sim: #1b7f3b; --nao: #b3261e; --neutra: #6b6a66; --camara: #2b5fa8; --senado: #7a3e9d;
+  --trab: #1b7f3b; --cap: #b3261e; --ambos: #b36b00; --neutro: #6b6a66; --indet: #6b6a66;
+  --leitura-bg: #fff8e6; --aviso-bg: #fdecea;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #15161a; --fg: #ecebe6; --dim: #a09f99; --card: #1f2127; --line: #33363f; --leitura-bg: #2a2516; --aviso-bg: #3a1f1d; }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+a { color: inherit; }
+main { max-width: 860px; margin: 0 auto; padding: 0 16px 48px; }
+.topo { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; justify-content: space-between; padding: 12px 16px; border-bottom: 1px solid var(--line); background: var(--card); }
+.marca { font-weight: 700; text-decoration: none; font-size: 1.1rem; }
+.topo nav { display: flex; gap: 14px; flex-wrap: wrap; }
+.topo nav a { text-decoration: none; color: var(--dim); }
+.topo nav a:hover { color: var(--fg); }
+.rodape { max-width: 860px; margin: 0 auto; padding: 16px; border-top: 1px solid var(--line); color: var(--dim); font-size: .85rem; }
+h1 { font-size: 1.5rem; line-height: 1.25; margin: 12px 0; }
+h2 { font-size: 1.15rem; margin: 20px 0 8px; }
+h3 { font-size: 1rem; margin: 18px 0 6px; }
+.dim { color: var(--dim); font-size: .9rem; }
+.intro p { margin: 6px 0; }
+.lista { display: grid; gap: 12px; margin-top: 12px; }
+.cartao, .bloco, .parlamentar { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; }
+.cartao h2 { margin: 6px 0; font-size: 1.1rem; }
+.cartao h2 a { text-decoration: none; }
+.cartao h2 a:hover { text-decoration: underline; }
+.cartao-topo { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 0 0 6px; font-size: .85rem; }
+.tag { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: .78rem; font-weight: 600; color: #fff; background: var(--neutra); text-transform: lowercase; }
+.tag-camara { background: var(--camara); } .tag-senado { background: var(--senado); }
+.tag-aprovado { background: var(--sim); } .tag-rejeitado { background: var(--nao); } .tag-neutra { background: var(--neutra); }
+.resumo { margin: 4px 0 8px; }
+.placar-linha { margin: 4px 0; font-size: .95rem; }
+.sim { color: var(--sim); font-weight: 600; } .nao { color: var(--nao); font-weight: 600; }
+.placar-grande { display: flex; flex-wrap: wrap; gap: 12px 20px; font-size: 1.3rem; margin: 6px 0; }
+.leitura-chip { display: inline-block; margin: 6px 0 0; padding: 4px 10px; border-radius: 6px; background: var(--leitura-bg); font-size: .85rem; border-left: 4px solid var(--neutro); }
+.categoria-trabalhadores { border-left-color: var(--trab); } .categoria-capital { border-left-color: var(--cap); }
+.categoria-ambos { border-left-color: var(--ambos); } .categoria-neutro, .categoria-indeterminado { border-left-color: var(--neutro); }
+.bloco { margin-top: 14px; }
+.bloco.leitura { background: var(--leitura-bg); border-left: 6px solid var(--neutro); }
+.bloco.leitura .rotulo { display: inline-block; margin-left: 8px; padding: 2px 8px; border-radius: 6px; background: var(--fg); color: var(--bg); font-size: .72rem; font-weight: 600; vertical-align: middle; text-transform: uppercase; letter-spacing: .03em; }
+.bloco.leitura .categoria { font-size: 1.15rem; font-weight: 700; margin: 4px 0 8px; }
+.ficha { margin: 8px 0; } .ficha dt { color: var(--dim); font-size: .8rem; text-transform: uppercase; letter-spacing: .04em; margin-top: 8px; } .ficha dd { margin: 2px 0 0; }
+.pre { white-space: pre-line; }
+.muda, .destaques { padding-left: 20px; margin: 6px 0; } .muda li, .destaques li { margin: 4px 0; }
+.fonte { font-size: .8rem; color: var(--dim); margin-left: 4px; }
+.aviso { background: var(--aviso-bg); border-left: 4px solid var(--nao); padding: 8px 10px; border-radius: 6px; }
+.orientacoes { display: flex; flex-wrap: wrap; gap: 6px; }
+.orient { display: inline-block; padding: 2px 8px; border-radius: 6px; border: 1px solid var(--line); font-size: .82rem; }
+.orient-sim { border-color: var(--sim); } .orient-nao { border-color: var(--nao); }
+.filtros { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 8px 0; }
+.filtros input { flex: 1 1 200px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--fg); font-size: 1rem; }
+.chip { padding: 4px 10px; border-radius: 999px; border: 1px solid var(--line); background: var(--card); color: var(--fg); font-size: .85rem; cursor: pointer; }
+.chip.ativo { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.tabela-votos { width: 100%; border-collapse: collapse; font-size: .92rem; }
+.tabela-votos th, .tabela-votos td { text-align: left; padding: 6px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.tabela-votos th { color: var(--dim); font-weight: 600; font-size: .8rem; text-transform: uppercase; }
+.voto-sim { color: var(--sim); font-weight: 600; } .voto-nao { color: var(--nao); font-weight: 600; }
+.voto-abstencao, .voto-obstrucao { font-weight: 600; }
+.voto-presente_sem_voto, .voto-ausencia_justificada, .voto-nao_compareceu, .voto-nao_registrado_inferido, .voto-presidencia, .voto-outro { color: var(--dim); font-style: italic; }
+tr.oculto { display: none; }
+.rolagem { overflow-x: auto; }
+.tabela-simples { border-collapse: collapse; font-size: .88rem; min-width: 480px; }
+.tabela-simples th, .tabela-simples td { text-align: left; padding: 4px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.correcoes { padding-left: 18px; } .correcoes li { margin: 8px 0; }
+.perfil img { width: 84px; height: 84px; object-fit: cover; border-radius: 8px; }
+.perfil { display: flex; gap: 14px; align-items: flex-start; } .perfil img { width: 84px; height: 84px; object-fit: cover; border-radius: 8px; }
+details summary { cursor: pointer; margin: 8px 0; }
+@media (max-width: 600px) {
+  .tabela-votos thead { display: none; }
+  .tabela-votos tr { display: grid; grid-template-columns: 1fr auto; gap: 0 8px; padding: 6px 0; border-bottom: 1px solid var(--line); }
+  .tabela-votos td { border: 0; padding: 1px 0; }
+  .tabela-votos td:nth-child(1) { grid-column: 1; font-weight: 600; }
+  .tabela-votos td:nth-child(2), .tabela-votos td:nth-child(3) { grid-column: 1; display: inline; color: var(--dim); font-size: .85rem; }
+  .tabela-votos td:nth-child(2)::after { content: " · "; }
+  .tabela-votos td:last-child { grid-column: 2; grid-row: 1 / span 2; align-self: center; text-align: right; }
+  .placar-grande { font-size: 1.1rem; }
+}
