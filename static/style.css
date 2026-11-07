@@ -33,6 +33,9 @@ h3 { font-size: 1rem; margin: 18px 0 6px; }
 .tag-camara { background: var(--camara); } .tag-senado { background: var(--senado); }
 .tag-aprovado { background: var(--sim); } .tag-rejeitado { background: var(--nao); } .tag-neutra { background: var(--neutra); }
 .resumo { margin: 4px 0 8px; }
+.tipo { margin: 0; font-size: .85rem; text-transform: uppercase; letter-spacing: .03em; }
+.etapa { margin: 4px 0 6px; line-height: 1.45; }
+.oficial { margin: 2px 0 8px; font-size: .85rem; }
 .placar-linha { margin: 4px 0; font-size: .95rem; }
 .sim { color: var(--sim); font-weight: 600; } .nao { color: var(--nao); font-weight: 600; }
 .placar-grande { display: flex; flex-wrap: wrap; gap: 12px 20px; font-size: 1.3rem; margin: 6px 0; }
