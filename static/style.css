@@ -32,6 +32,9 @@ h3 { font-size: 1rem; margin: 18px 0 6px; }
 .tag { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: .78rem; font-weight: 600; color: #fff; background: var(--neutra); text-transform: lowercase; }
 .tag-camara { background: var(--camara); } .tag-senado { background: var(--senado); }
 .tag-aprovado { background: var(--sim); } .tag-rejeitado { background: var(--nao); } .tag-neutra { background: var(--neutra); }
+.tag-apertada { background: #b45309; }
+.apertada { margin: 6px 0; padding: 8px 10px; border-left: 4px solid #b45309; background: var(--aviso-bg); border-radius: 6px; line-height: 1.45; }
+details.bancadas { margin-top: 8px; } details.bancadas summary { cursor: pointer; color: var(--dim); }
 .resumo { margin: 4px 0 8px; }
 .tipo { margin: 0; font-size: .85rem; text-transform: uppercase; letter-spacing: .03em; }
 .etapa { margin: 4px 0 6px; line-height: 1.45; }
