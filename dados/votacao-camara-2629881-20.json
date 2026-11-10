@@ -1,0 +1,26 @@
+{
+ "id": "camara:2629881-20",
+ "casa": "camara",
+ "data_iso": "2026-11-10",
+ "materia": "PL 2839/2026",
+ "descricao": "Aprovado o requerimento nº 3497/2026, Do Sr. Marcos Braz e outros, que solicita urgência (art. 155) para o PL 2839/2026.",
+ "resultado": "aprovado",
+ "placar": {
+  "sim": 0,
+  "nao": 0,
+  "abstencao": 0,
+  "obstrucao": 0,
+  "presente_sem_voto": 0,
+  "presidencia": 0,
+  "ausencia_justificada": 0,
+  "nao_compareceu": 0,
+  "outros": 0,
+  "total": 0
+ },
+ "orientacoes": [],
+ "rebeldes": [],
+ "nao_registrados": [],
+ "votos": [],
+ "fonte_url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2629881-20",
+ "analise": null
+}

@@ -1,0 +1,26 @@
+{
+ "id": "camara:2226165-23",
+ "casa": "camara",
+ "data_iso": "2026-11-10",
+ "materia": "PL 5589/2019",
+ "descricao": "Aprovado o requerimento nº 3990/2026, Dos Srs. Thiago de Joaldo e Doutor Luizinho, que solicita urgência (art. 155) para o PL 479/2015.",
+ "resultado": "aprovado",
+ "placar": {
+  "sim": 0,
+  "nao": 0,
+  "abstencao": 0,
+  "obstrucao": 0,
+  "presente_sem_voto": 0,
+  "presidencia": 0,
+  "ausencia_justificada": 0,
+  "nao_compareceu": 0,
+  "outros": 0,
+  "total": 0
+ },
+ "orientacoes": [],
+ "rebeldes": [],
+ "nao_registrados": [],
+ "votos": [],
+ "fonte_url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2226165-23",
+ "analise": null
+}
