@@ -1,5 +1,49 @@
 [
  {
+  "id": "camara:2644738-8",
+  "casa": "camara",
+  "data_iso": "2026-11-10",
+  "materia": "PL 5621/2023",
+  "titulo": "Estabelece prioridade no acesso ao Programa Minha Casa, Minha Vida algumas categorias de famílias, especialmente aquelas com crianças e adolescentes…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-10T19:32:02"
+ },
+ {
+  "id": "camara:2643846-10",
+  "casa": "camara",
+  "data_iso": "2026-11-10",
+  "materia": "PL 5086/2026",
+  "titulo": "Regime jurídico específico das associações civis sem fins lucrativos de utilidade pública que instituam sistemas de beneficência e assistência mútua…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-10T19:32:03"
+ },
+ {
   "id": "camara:2204495-108",
   "casa": "camara",
   "data_iso": "2026-11-10",
@@ -2911,18 +2955,18 @@
   "titulo": "Acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de fiscalização e…",
   "resultado": "aprovado",
   "placar": {
-   "sim": 0,
+   "sim": 72,
    "nao": 0,
    "abstencao": 0,
    "obstrucao": 0,
    "presente_sem_voto": 0,
-   "presidencia": 0,
-   "ausencia_justificada": 0,
-   "nao_compareceu": 0,
-   "outros": 0,
-   "total": 0
+   "presidencia": 1,
+   "ausencia_justificada": 6,
+   "nao_compareceu": 2,
+   "outros": 9,
+   "total": 72
   },
-  "nominal": false,
+  "nominal": true,
   "primeiro_visto_em": "2026-11-10T18:33:07"
  },
  {

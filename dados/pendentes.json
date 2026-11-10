@@ -1,5 +1,42 @@
 {
  "prompt_hash": "631e2d640469",
  "prompt": "prompts/analise_votacao.md",
- "pendentes": []
+ "pendentes": [
+  {
+   "votacao_id": "senado:7113",
+   "slug": "senado-7113",
+   "arquivo": "data/analises/senado-7113.json",
+   "titulo": "Acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de fiscalização e…",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/senado-7113.html",
+   "contexto": {
+    "casa": "Senado Federal",
+    "data_sessao": "2026-11-10",
+    "materia": "PLP 109/2025",
+    "ementa_materia": "Dispõe sobre o acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de fiscalização e regulação do setor, nos termos do § 1º do art. 145 da Constituição Federal.",
+    "descricao_oficial_da_votacao": "Votação nominal do Projeto de Lei Complementar nº 109, de 2025, nos termos dos pareceres.",
+    "objeto_votado": "Votação nominal do Projeto de Lei Complementar nº 109, de 2025, nos termos dos pareceres.",
+    "contexto_extra": "",
+    "resultado": "aprovado",
+    "placar": {
+     "sim": 72,
+     "nao": 0,
+     "abstencao": 0,
+     "obstrucao": 0,
+     "total": 72
+    },
+    "nao_votaram": {
+     "Ausência com justificativa oficial": 6,
+     "Não compareceu": 2,
+     "Presidiu (não vota)": 1
+    },
+    "orientacoes": [],
+    "contra_a_propria_bancada": [],
+    "emendas": [],
+    "fontes": [
+     "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594172",
+     "https://legis.senado.leg.br/dadosabertos/processo/9031010"
+    ]
+   }
+  }
+ ]
 }
