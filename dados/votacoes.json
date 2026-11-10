@@ -1,5 +1,27 @@
 [
  {
+  "id": "camara:2652143-8",
+  "casa": "camara",
+  "data_iso": "2026-11-10",
+  "materia": "PL 1572/2026",
+  "titulo": "Denomina “Rodovia Prefeito Antônio Carlos Barbosa” o trecho da rodovia BR-146 compreendido entre os Municípios de Guaxupé e São Pedro da União, no…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-10T20:02:02"
+ },
+ {
   "id": "camara:2652154-7",
   "casa": "camara",
   "data_iso": "2026-11-10",
