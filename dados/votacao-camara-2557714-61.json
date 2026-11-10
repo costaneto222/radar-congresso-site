@@ -1,0 +1,26 @@
+{
+ "id": "camara:2557714-61",
+ "casa": "camara",
+ "data_iso": "2026-11-10",
+ "materia": "PL 4480/2025",
+ "descricao": "Aprovada a Redação Final assinada pelo relator, Dep. Rodrigo da Zaeli (PL-MT).",
+ "resultado": "aprovado",
+ "placar": {
+  "sim": 0,
+  "nao": 0,
+  "abstencao": 0,
+  "obstrucao": 0,
+  "presente_sem_voto": 0,
+  "presidencia": 0,
+  "ausencia_justificada": 0,
+  "nao_compareceu": 0,
+  "outros": 0,
+  "total": 0
+ },
+ "orientacoes": [],
+ "rebeldes": [],
+ "nao_registrados": [],
+ "votos": [],
+ "fonte_url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2557714-61",
+ "analise": null
+}

@@ -1,0 +1,26 @@
+{
+ "id": "camara:2476576-30",
+ "casa": "camara",
+ "data_iso": "2026-11-10",
+ "materia": "PL 4724/2024",
+ "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 4.724, de 2024, da Comissão de Constituição e Justiça e de Cidadania.",
+ "resultado": "aprovado",
+ "placar": {
+  "sim": 0,
+  "nao": 0,
+  "abstencao": 0,
+  "obstrucao": 0,
+  "presente_sem_voto": 0,
+  "presidencia": 0,
+  "ausencia_justificada": 0,
+  "nao_compareceu": 0,
+  "outros": 0,
+  "total": 0
+ },
+ "orientacoes": [],
+ "rebeldes": [],
+ "nao_registrados": [],
+ "votos": [],
+ "fonte_url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2476576-30",
+ "analise": null
+}

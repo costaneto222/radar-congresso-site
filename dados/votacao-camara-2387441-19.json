@@ -1,0 +1,26 @@
+{
+ "id": "camara:2387441-19",
+ "casa": "camara",
+ "data_iso": "2026-11-10",
+ "materia": "PL 635/2020",
+ "descricao": "Aprovado o requerimento nº 4417/2026, Dos Srs. Paulo Alexandre Barbosa e Adolfo Viana, que solicita urgência (art. 155) para o PL 2561/2024.",
+ "resultado": "aprovado",
+ "placar": {
+  "sim": 0,
+  "nao": 0,
+  "abstencao": 0,
+  "obstrucao": 0,
+  "presente_sem_voto": 0,
+  "presidencia": 0,
+  "ausencia_justificada": 0,
+  "nao_compareceu": 0,
+  "outros": 0,
+  "total": 0
+ },
+ "orientacoes": [],
+ "rebeldes": [],
+ "nao_registrados": [],
+ "votos": [],
+ "fonte_url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2387441-19",
+ "analise": null
+}
