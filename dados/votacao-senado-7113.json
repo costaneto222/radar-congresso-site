@@ -1,0 +1,26 @@
+{
+ "id": "senado:7113",
+ "casa": "senado",
+ "data_iso": "2026-11-10",
+ "materia": "PLP 109/2025",
+ "descricao": "Votação nominal do Projeto de Lei Complementar nº 109, de 2025, nos termos dos pareceres.",
+ "resultado": "aprovado",
+ "placar": {
+  "sim": 0,
+  "nao": 0,
+  "abstencao": 0,
+  "obstrucao": 0,
+  "presente_sem_voto": 0,
+  "presidencia": 0,
+  "ausencia_justificada": 0,
+  "nao_compareceu": 0,
+  "outros": 0,
+  "total": 0
+ },
+ "orientacoes": [],
+ "rebeldes": [],
+ "nao_registrados": [],
+ "votos": [],
+ "fonte_url": "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594172",
+ "analise": null
+}

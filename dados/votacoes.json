@@ -1,5 +1,115 @@
 [
  {
+  "id": "camara:2641546-20",
+  "casa": "camara",
+  "data_iso": "2026-11-10",
+  "materia": "MPV 1379/2026",
+  "titulo": "Fortalecer e modernizar o sistema brasileiro de apoio oficial ao crédito à exportação",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-10T18:32:02"
+ },
+ {
+  "id": "camara:2641546-18",
+  "casa": "camara",
+  "data_iso": "2026-11-10",
+  "materia": "MPV 1379/2026",
+  "titulo": "Fortalecer e modernizar o sistema brasileiro de apoio oficial ao crédito à exportação",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-10T18:32:03"
+ },
+ {
+  "id": "camara:2641546-16",
+  "casa": "camara",
+  "data_iso": "2026-11-10",
+  "materia": "MPV 1379/2026",
+  "titulo": "Fortalecer e modernizar o sistema brasileiro de apoio oficial ao crédito à exportação",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-10T18:32:05"
+ },
+ {
+  "id": "camara:2639957-20",
+  "casa": "camara",
+  "data_iso": "2026-11-10",
+  "materia": "MPV 1376/2026",
+  "titulo": "Autoriza a criação de linhas de crédito para composição de dívidas para liquidação ou amortização de operações de crédito rural e de Cédulas de…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-10T18:32:08"
+ },
+ {
+  "id": "camara:2639957-18",
+  "casa": "camara",
+  "data_iso": "2026-11-10",
+  "materia": "MPV 1376/2026",
+  "titulo": "Autoriza a criação de linhas de crédito para composição de dívidas para liquidação ou amortização de operações de crédito rural e de Cédulas de…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-10T18:32:09"
+ },
+ {
   "id": "camara:2639957-16",
   "casa": "camara",
   "data_iso": "2026-11-10",
@@ -284,6 +394,28 @@
   },
   "nominal": false,
   "primeiro_visto_em": "2026-11-10T18:17:49"
+ },
+ {
+  "id": "senado:7113",
+  "casa": "senado",
+  "data_iso": "2026-11-10",
+  "materia": "PLP 109/2025",
+  "titulo": "Acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de fiscalização e…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-10T18:33:07"
  },
  {
   "id": "camara:2412504-64",
