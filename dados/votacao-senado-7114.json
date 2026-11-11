@@ -1,0 +1,26 @@
+{
+ "id": "senado:7114",
+ "casa": "senado",
+ "data_iso": "2026-11-11",
+ "materia": "PLP 230/2025",
+ "descricao": "Votação nominal do Projeto de Lei Complementar nº 230, de 2025, nos termos do parecer.",
+ "resultado": "aprovado",
+ "placar": {
+  "sim": 0,
+  "nao": 0,
+  "abstencao": 0,
+  "obstrucao": 0,
+  "presente_sem_voto": 0,
+  "presidencia": 0,
+  "ausencia_justificada": 0,
+  "nao_compareceu": 0,
+  "outros": 0,
+  "total": 0
+ },
+ "orientacoes": [],
+ "rebeldes": [],
+ "nao_registrados": [],
+ "votos": [],
+ "fonte_url": "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594175",
+ "analise": null
+}

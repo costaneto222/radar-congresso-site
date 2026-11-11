@@ -1,5 +1,27 @@
 [
  {
+  "id": "senado:7114",
+  "casa": "senado",
+  "data_iso": "2026-11-11",
+  "materia": "PLP 230/2025",
+  "titulo": "Vedar a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações (Fust), e…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-11T17:58:13"
+ },
+ {
   "id": "camara:2652143-8",
   "casa": "camara",
   "data_iso": "2026-11-10",
