@@ -1,5 +1,49 @@
 [
  {
+  "id": "camara:2629310-44",
+  "casa": "camara",
+  "data_iso": "2026-11-11",
+  "materia": "PDL 557/2026",
+  "titulo": "Aprova o texto da Convenção Internacional de Hong Kong para a Reciclagem Segura e Ambientalmente Adequada de Navios de 2009 (HKC), para fins de…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-11T18:47:02"
+ },
+ {
+  "id": "camara:2629310-42",
+  "casa": "camara",
+  "data_iso": "2026-11-11",
+  "materia": "PDL 557/2026",
+  "titulo": "Aprova o texto da Convenção Internacional de Hong Kong para a Reciclagem Segura e Ambientalmente Adequada de Navios de 2009 (HKC), para fins de…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-11T18:47:03"
+ },
+ {
   "id": "camara:2602370-38",
   "casa": "camara",
   "data_iso": "2026-11-11",
