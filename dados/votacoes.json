@@ -1,5 +1,49 @@
 [
  {
+  "id": "camara:2270540-88",
+  "casa": "camara",
+  "data_iso": "2026-11-11",
+  "materia": "PL 504/2021",
+  "titulo": "Cria a Política Nacional de Residência em Área Profissional da Saúde",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-11T19:47:02"
+ },
+ {
+  "id": "camara:2270540-87",
+  "casa": "camara",
+  "data_iso": "2026-11-11",
+  "materia": "PL 504/2021",
+  "titulo": "Cria a Política Nacional de Residência em Área Profissional da Saúde",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-11T19:47:04"
+ },
+ {
   "id": "camara:2629310-44",
   "casa": "camara",
   "data_iso": "2026-11-11",
