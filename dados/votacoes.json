@@ -3289,10 +3289,10 @@
    "nao": 0,
    "abstencao": 0,
    "obstrucao": 0,
-   "presente_sem_voto": 0,
+   "presente_sem_voto": 2,
    "presidencia": 1,
    "ausencia_justificada": 6,
-   "nao_compareceu": 2,
+   "nao_compareceu": 0,
    "outros": 9,
    "total": 72
   },
