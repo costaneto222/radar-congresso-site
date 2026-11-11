@@ -3,6 +3,42 @@
  "prompt": "prompts/analise_votacao.md",
  "pendentes": [
   {
+   "votacao_id": "senado:7114",
+   "slug": "senado-7114",
+   "arquivo": "data/analises/senado-7114.json",
+   "titulo": "Vedar a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações (Fust), e…",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/senado-7114.html",
+   "contexto": {
+    "casa": "Senado Federal",
+    "data_sessao": "2026-11-11",
+    "materia": "PLP 230/2025",
+    "ementa_materia": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para vedar a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações (Fust), e a Lei nº 9.998, de 17 de agosto de 2000, para os fins que especifica.",
+    "descricao_oficial_da_votacao": "Votação nominal do Projeto de Lei Complementar nº 230, de 2025, nos termos do parecer.",
+    "objeto_votado": "Votação nominal do Projeto de Lei Complementar nº 230, de 2025, nos termos do parecer.",
+    "contexto_extra": "",
+    "resultado": "aprovado",
+    "placar": {
+     "sim": 68,
+     "nao": 0,
+     "abstencao": 0,
+     "obstrucao": 0,
+     "total": 68
+    },
+    "nao_votaram": {
+     "Ausência com justificativa oficial": 7,
+     "Não compareceu": 5,
+     "Presidiu (não vota)": 1
+    },
+    "orientacoes": [],
+    "contra_a_propria_bancada": [],
+    "emendas": [],
+    "fontes": [
+     "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594175",
+     "https://legis.senado.leg.br/dadosabertos/processo/9101131"
+    ]
+   }
+  },
+  {
    "votacao_id": "senado:7113",
    "slug": "senado-7113",
    "arquivo": "data/analises/senado-7113.json",

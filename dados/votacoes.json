@@ -1,10 +1,10 @@
 [
  {
-  "id": "senado:7114",
-  "casa": "senado",
+  "id": "camara:2602370-38",
+  "casa": "camara",
   "data_iso": "2026-11-11",
-  "materia": "PLP 230/2025",
-  "titulo": "Vedar a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações (Fust), e…",
+  "materia": "PL 464/2026",
+  "titulo": "Responsabilização por interdição abusiva",
   "resultado": "aprovado",
   "placar": {
    "sim": 0,
@@ -19,6 +19,72 @@
    "total": 0
   },
   "nominal": false,
+  "primeiro_visto_em": "2026-11-11T18:32:02"
+ },
+ {
+  "id": "camara:2600339-18",
+  "casa": "camara",
+  "data_iso": "2026-11-11",
+  "materia": "PL 2812/2022",
+  "titulo": "Revoga a Lei no 12.318, de 26 de agosto de 2010 - Lei de Alienação Parental",
+  "resultado": "rejeitado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-11T18:32:03"
+ },
+ {
+  "id": "camara:2600339-15",
+  "casa": "camara",
+  "data_iso": "2026-11-11",
+  "materia": "PL 2812/2022",
+  "titulo": "Revoga a Lei no 12.318, de 26 de agosto de 2010 - Lei de Alienação Parental",
+  "resultado": "rejeitado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-11T18:32:05"
+ },
+ {
+  "id": "senado:7114",
+  "casa": "senado",
+  "data_iso": "2026-11-11",
+  "materia": "PLP 230/2025",
+  "titulo": "Vedar a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações (Fust), e…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 68,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 1,
+   "ausencia_justificada": 7,
+   "nao_compareceu": 5,
+   "outros": 13,
+   "total": 68
+  },
+  "nominal": true,
   "primeiro_visto_em": "2026-11-11T17:58:13"
  },
  {
