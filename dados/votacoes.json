@@ -1,5 +1,49 @@
 [
  {
+  "id": "camara:2515534-69",
+  "casa": "camara",
+  "data_iso": "2026-11-11",
+  "materia": "PL 2475/2025",
+  "titulo": "Tornar hediondo o crime de maus-tratos aos animais, quando do evento criminoso resultar a morte do animal",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-11T20:02:03"
+ },
+ {
+  "id": "camara:2515534-66",
+  "casa": "camara",
+  "data_iso": "2026-11-11",
+  "materia": "PL 2475/2025",
+  "titulo": "Tornar hediondo o crime de maus-tratos aos animais, quando do evento criminoso resultar a morte do animal",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-11T20:02:04"
+ },
+ {
   "id": "camara:2270540-88",
   "casa": "camara",
   "data_iso": "2026-11-11",
