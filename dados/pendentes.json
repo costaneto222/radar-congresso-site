@@ -3,6 +3,42 @@
  "prompt": "prompts/analise_votacao.md",
  "pendentes": [
   {
+   "votacao_id": "senado:7115",
+   "slug": "senado-7115",
+   "arquivo": "data/analises/senado-7115.json",
+   "titulo": "Conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições…",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/senado-7115.html",
+   "contexto": {
+    "casa": "Senado Federal",
+    "data_sessao": "2026-11-12",
+    "materia": "PLP 299/2026",
+    "ementa_materia": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+    "descricao_oficial_da_votacao": "Votação nominal do Requerimento n° 770, de 2026, de Líderes.",
+    "objeto_votado": "Votação nominal do Requerimento n° 770, de 2026, de Líderes.",
+    "contexto_extra": "",
+    "resultado": "aprovado",
+    "placar": {
+     "sim": 40,
+     "nao": 38,
+     "abstencao": 0,
+     "obstrucao": 0,
+     "total": 78
+    },
+    "nao_votaram": {
+     "Ausência com justificativa oficial": 1,
+     "Não compareceu": 1,
+     "Presidiu (não vota)": 1
+    },
+    "orientacoes": [],
+    "contra_a_propria_bancada": [],
+    "emendas": [],
+    "fontes": [
+     "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=597365",
+     "https://legis.senado.leg.br/dadosabertos/processo/9127383"
+    ]
+   }
+  },
+  {
    "votacao_id": "senado:7114",
    "slug": "senado-7114",
    "arquivo": "data/analises/senado-7114.json",
