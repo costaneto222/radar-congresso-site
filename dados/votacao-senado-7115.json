@@ -1,0 +1,26 @@
+{
+ "id": "senado:7115",
+ "casa": "senado",
+ "data_iso": "2026-11-12",
+ "materia": "PLP 299/2026",
+ "descricao": "Votação nominal do Requerimento n° 770, de 2026, de Líderes.",
+ "resultado": "aprovado",
+ "placar": {
+  "sim": 0,
+  "nao": 0,
+  "abstencao": 0,
+  "obstrucao": 0,
+  "presente_sem_voto": 0,
+  "presidencia": 0,
+  "ausencia_justificada": 0,
+  "nao_compareceu": 0,
+  "outros": 0,
+  "total": 0
+ },
+ "orientacoes": [],
+ "rebeldes": [],
+ "nao_registrados": [],
+ "votos": [],
+ "fonte_url": "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=597365",
+ "analise": null
+}
