@@ -13,8 +13,8 @@
    "obstrucao": 0,
    "presente_sem_voto": 0,
    "presidencia": 1,
-   "ausencia_justificada": 3,
-   "nao_compareceu": 1,
+   "ausencia_justificada": 4,
+   "nao_compareceu": 0,
    "outros": 5,
    "total": 76
   },

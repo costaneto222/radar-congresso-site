@@ -12,8 +12,8 @@
   "obstrucao": 0,
   "presente_sem_voto": 0,
   "presidencia": 1,
-  "ausencia_justificada": 3,
-  "nao_compareceu": 1,
+  "ausencia_justificada": 4,
+  "nao_compareceu": 0,
   "outros": 5,
   "total": 76
  },
@@ -783,9 +783,9 @@
   {
    "votacao_id": "senado:7116",
    "parlamentar_id": "senado:5352",
-   "sigla": "NCom",
-   "classe": "nao_compareceu",
-   "descricao_oficial": "Não Compareceu",
+   "sigla": "MIS",
+   "classe": "ausencia_justificada",
+   "descricao_oficial": "Missão da Casa no País/exterior",
    "partido": "PT",
    "uf": "SE",
    "nome": "Rogério Carvalho",
