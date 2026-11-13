@@ -7,18 +7,18 @@
   "titulo": "Conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições…",
   "resultado": "aprovado",
   "placar": {
-   "sim": 0,
-   "nao": 0,
+   "sim": 45,
+   "nao": 31,
    "abstencao": 0,
    "obstrucao": 0,
    "presente_sem_voto": 0,
-   "presidencia": 0,
-   "ausencia_justificada": 0,
-   "nao_compareceu": 0,
-   "outros": 0,
-   "total": 0
+   "presidencia": 1,
+   "ausencia_justificada": 3,
+   "nao_compareceu": 1,
+   "outros": 5,
+   "total": 76
   },
-  "nominal": false,
+  "nominal": true,
   "primeiro_visto_em": "2026-11-12T21:13:15"
  },
  {
