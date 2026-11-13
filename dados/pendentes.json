@@ -98,7 +98,8 @@
     },
     "nao_votaram": {
      "Ausência com justificativa oficial": 7,
-     "Não compareceu": 5,
+     "Não compareceu": 1,
+     "Presente, não registrou voto": 4,
      "Presidiu (não vota)": 1
     },
     "orientacoes": [],
