@@ -1,5 +1,137 @@
 [
  {
+  "id": "camara:2646241-34",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "MPV 1389/2026",
+  "titulo": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 6.605.000.000,00, para os fins que especifica",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:02:02"
+ },
+ {
+  "id": "camara:2646241-32",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "MPV 1389/2026",
+  "titulo": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 6.605.000.000,00, para os fins que especifica",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:02:04"
+ },
+ {
+  "id": "camara:2646241-30",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "MPV 1389/2026",
+  "titulo": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 6.605.000.000,00, para os fins que especifica",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:02:05"
+ },
+ {
+  "id": "camara:2643435-34",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "MPV 1384/2026",
+  "titulo": "Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário e Agricultura Familiar e do Desenvolvimento e Assistência Social…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:02:07"
+ },
+ {
+  "id": "camara:2643435-32",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "MPV 1384/2026",
+  "titulo": "Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário e Agricultura Familiar e do Desenvolvimento e Assistência Social…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:02:08"
+ },
+ {
+  "id": "camara:2643435-30",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "MPV 1384/2026",
+  "titulo": "Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário e Agricultura Familiar e do Desenvolvimento e Assistência Social…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:02:11"
+ },
+ {
   "id": "camara:2643429-32",
   "casa": "camara",
   "data_iso": "2026-11-17",
