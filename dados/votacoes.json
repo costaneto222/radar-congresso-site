@@ -1,5 +1,93 @@
 [
  {
+  "id": "camara:2648606-32",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "MPV 1397/2026",
+  "titulo": "Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$6.494.296.446,00, para o fim que especifica",
+  "resultado": "rejeitado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:17:01"
+ },
+ {
+  "id": "camara:2648606-28",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "MPV 1397/2026",
+  "titulo": "Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$6.494.296.446,00, para o fim que especifica",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:17:03"
+ },
+ {
+  "id": "camara:2648606-26",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "MPV 1397/2026",
+  "titulo": "Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$6.494.296.446,00, para o fim que especifica",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:17:04"
+ },
+ {
+  "id": "camara:2648606-24",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "MPV 1397/2026",
+  "titulo": "Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$6.494.296.446,00, para o fim que especifica",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:17:06"
+ },
+ {
   "id": "camara:2646241-34",
   "casa": "camara",
   "data_iso": "2026-11-17",
