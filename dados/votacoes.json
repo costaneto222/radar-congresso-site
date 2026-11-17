@@ -1,5 +1,49 @@
 [
  {
+  "id": "camara:2620763-7",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "PRC 25/2026",
+  "titulo": "Institui, no âmbito da Câmara dos Deputados o “Selo Câmara de Respeito à Voz do Cidadão”",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T16:32:02"
+ },
+ {
+  "id": "camara:2604279-9",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "PL 5389/2019",
+  "titulo": "O âmbito dos Estados e do Distrito Federal a execução das atividades neles mencionadas",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T16:32:03"
+ },
+ {
   "id": "senado:7116",
   "casa": "senado",
   "data_iso": "2026-11-12",
