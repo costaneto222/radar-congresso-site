@@ -1,5 +1,93 @@
 [
  {
+  "id": "camara:2652524-18",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "PRC 50/2026",
+  "titulo": "Institui o Prêmio Trajetórias de Êxito na Superdotação e na Dupla Excepcionalidade",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:47:02"
+ },
+ {
+  "id": "camara:2652524-16",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "PRC 50/2026",
+  "titulo": "Institui o Prêmio Trajetórias de Êxito na Superdotação e na Dupla Excepcionalidade",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:47:03"
+ },
+ {
+  "id": "camara:2644208-20",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "PL 5127/2026",
+  "titulo": "Reconhece como manifestação da cultura nacional a Romaria do Divino Pai Eterno, realizada no Município de Trindade, no Estado de Goiás",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:47:05"
+ },
+ {
+  "id": "camara:2644208-16",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "PL 5127/2026",
+  "titulo": "Reconhece como manifestação da cultura nacional a Romaria do Divino Pai Eterno, realizada no Município de Trindade, no Estado de Goiás",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:47:06"
+ },
+ {
   "id": "camara:2648616-28",
   "casa": "camara",
   "data_iso": "2026-11-17",
