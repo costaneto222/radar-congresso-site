@@ -1,5 +1,49 @@
 [
  {
+  "id": "camara:2648616-28",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "MPV 1398/2026",
+  "titulo": "Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 300.000.000,00, para o fim que…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:32:03"
+ },
+ {
+  "id": "camara:2648616-26",
+  "casa": "camara",
+  "data_iso": "2026-11-17",
+  "materia": "MPV 1398/2026",
+  "titulo": "Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 300.000.000,00, para o fim que…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-17T17:32:06"
+ },
+ {
   "id": "camara:2648606-32",
   "casa": "camara",
   "data_iso": "2026-11-17",
