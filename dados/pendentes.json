@@ -3,6 +3,41 @@
  "prompt": "prompts/analise_votacao.md",
  "pendentes": [
   {
+   "votacao_id": "senado:7120",
+   "slug": "senado-7120",
+   "arquivo": "data/analises/senado-7120.json",
+   "titulo": "Ajuste fiscal",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/senado-7120.html",
+   "contexto": {
+    "casa": "Senado Federal",
+    "data_sessao": "2026-11-18",
+    "materia": "PLP 299/2026",
+    "ementa_materia": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+    "descricao_oficial_da_votacao": "Votação nominal das Emendas, subemenda e adequações redacionais do Relator, em turno suplementar, nos termos do parecer.",
+    "objeto_votado": "Votação nominal das Emendas, subemenda e adequações redacionais do Relator, em turno suplementar, nos termos do parecer.",
+    "contexto_extra": "",
+    "resultado": "aprovado",
+    "placar": {
+     "sim": 69,
+     "nao": 2,
+     "abstencao": 1,
+     "obstrucao": 0,
+     "total": 72
+    },
+    "nao_votaram": {
+     "Não compareceu": 8,
+     "Presidiu (não vota)": 1
+    },
+    "orientacoes": [],
+    "contra_a_propria_bancada": [],
+    "emendas": [],
+    "fontes": [
+     "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594179",
+     "https://legis.senado.leg.br/dadosabertos/processo/9127383"
+    ]
+   }
+  },
+  {
    "votacao_id": "senado:7119",
    "slug": "senado-7119",
    "arquivo": "data/analises/senado-7119.json",

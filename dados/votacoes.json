@@ -161,18 +161,18 @@
   "titulo": "Ajuste fiscal",
   "resultado": "aprovado",
   "placar": {
-   "sim": 0,
-   "nao": 0,
-   "abstencao": 0,
+   "sim": 69,
+   "nao": 2,
+   "abstencao": 1,
    "obstrucao": 0,
    "presente_sem_voto": 0,
-   "presidencia": 0,
+   "presidencia": 1,
    "ausencia_justificada": 0,
-   "nao_compareceu": 0,
-   "outros": 0,
-   "total": 0
+   "nao_compareceu": 8,
+   "outros": 9,
+   "total": 72
   },
-  "nominal": false,
+  "nominal": true,
   "primeiro_visto_em": "2026-11-18T19:03:30"
  },
  {
