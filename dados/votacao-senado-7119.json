@@ -1,0 +1,26 @@
+{
+ "id": "senado:7119",
+ "casa": "senado",
+ "data_iso": "2026-11-18",
+ "materia": "PLP 299/2026",
+ "descricao": "Votação nominal do Art. 6º-F da Lei Complementar nº 200, de 2023, constante do art. 1º do Substitutivo ao PLP nº 299/2026, destacado.",
+ "resultado": "aprovado",
+ "placar": {
+  "sim": 0,
+  "nao": 0,
+  "abstencao": 0,
+  "obstrucao": 0,
+  "presente_sem_voto": 0,
+  "presidencia": 0,
+  "ausencia_justificada": 0,
+  "nao_compareceu": 0,
+  "outros": 0,
+  "total": 0
+ },
+ "orientacoes": [],
+ "rebeldes": [],
+ "nao_registrados": [],
+ "votos": [],
+ "fonte_url": "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594179",
+ "analise": null
+}
