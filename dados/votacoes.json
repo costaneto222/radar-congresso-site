@@ -1,5 +1,49 @@
 [
  {
+  "id": "camara:2565161-37",
+  "casa": "camara",
+  "data_iso": "2026-11-18",
+  "materia": "PDL 756/2025",
+  "titulo": "Aprova o texto do Tratado de Assistência Jurídica Mútua em Matéria Penal entre a República Federativa do Brasil e o Japão, assinado em Tóquio, em 25…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-18T16:47:01"
+ },
+ {
+  "id": "camara:2565161-34",
+  "casa": "camara",
+  "data_iso": "2026-11-18",
+  "materia": "PDL 756/2025",
+  "titulo": "Aprova o texto do Tratado de Assistência Jurídica Mútua em Matéria Penal entre a República Federativa do Brasil e o Japão, assinado em Tóquio, em 25…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-18T16:47:03"
+ },
+ {
   "id": "camara:2652524-18",
   "casa": "camara",
   "data_iso": "2026-11-17",
