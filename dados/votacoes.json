@@ -154,6 +154,28 @@
   "primeiro_visto_em": "2026-11-18T16:47:03"
  },
  {
+  "id": "senado:7120",
+  "casa": "senado",
+  "data_iso": "2026-11-18",
+  "materia": "PLP 299/2026",
+  "titulo": "Ajuste fiscal",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-18T19:03:30"
+ },
+ {
   "id": "senado:7119",
   "casa": "senado",
   "data_iso": "2026-11-18",
