@@ -1,5 +1,49 @@
 [
  {
+  "id": "camara:866002-105",
+  "casa": "camara",
+  "data_iso": "2026-11-18",
+  "materia": "PL 8332/2015",
+  "titulo": "Criação de cargos de Juiz do Trabalho Substituto e de cargos de provimento efetivo no Tribunal Regional do Trabalho da 7ª Região",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-18T17:17:21"
+ },
+ {
+  "id": "camara:1194323-116",
+  "casa": "camara",
+  "data_iso": "2026-11-18",
+  "materia": "PL 956/2015",
+  "titulo": "Criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 4ª Região",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-18T17:18:58"
+ },
+ {
   "id": "camara:2620100-21",
   "casa": "camara",
   "data_iso": "2026-11-18",
