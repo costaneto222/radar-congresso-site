@@ -44,6 +44,28 @@
   "primeiro_visto_em": "2026-11-18T17:18:58"
  },
  {
+  "id": "camara:344542-97",
+  "casa": "camara",
+  "data_iso": "2026-11-18",
+  "materia": "PL 396/2007",
+  "titulo": "Responsabilidade na transição administrativa, após a proclamação dos resultados eleitorais",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-18T17:32:05"
+ },
+ {
   "id": "camara:2620100-21",
   "casa": "camara",
   "data_iso": "2026-11-18",
