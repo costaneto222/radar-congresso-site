@@ -3,6 +3,119 @@
  "prompt": "prompts/analise_votacao.md",
  "pendentes": [
   {
+   "votacao_id": "senado:7119",
+   "slug": "senado-7119",
+   "arquivo": "data/analises/senado-7119.json",
+   "titulo": "Ajuste fiscal",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/senado-7119.html",
+   "contexto": {
+    "casa": "Senado Federal",
+    "data_sessao": "2026-11-18",
+    "materia": "PLP 299/2026",
+    "ementa_materia": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+    "descricao_oficial_da_votacao": "Votação nominal do Art. 6º-F da Lei Complementar nº 200, de 2023, constante do art. 1º do Substitutivo ao PLP nº 299/2026, destacado.",
+    "objeto_votado": "Votação nominal do Art. 6º-F da Lei Complementar nº 200, de 2023, constante do art. 1º do Substitutivo ao PLP nº 299/2026, destacado.",
+    "contexto_extra": "",
+    "resultado": "aprovado",
+    "placar": {
+     "sim": 49,
+     "nao": 31,
+     "abstencao": 0,
+     "obstrucao": 0,
+     "total": 80
+    },
+    "nao_votaram": {
+     "Presidiu (não vota)": 1
+    },
+    "orientacoes": [],
+    "contra_a_propria_bancada": [],
+    "emendas": [],
+    "fontes": [
+     "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594179",
+     "https://legis.senado.leg.br/dadosabertos/processo/9127383"
+    ]
+   }
+  },
+  {
+   "votacao_id": "senado:7118",
+   "slug": "senado-7118",
+   "arquivo": "data/analises/senado-7118.json",
+   "titulo": "Ajuste fiscal",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/senado-7118.html",
+   "contexto": {
+    "casa": "Senado Federal",
+    "data_sessao": "2026-11-18",
+    "materia": "PLP 299/2026",
+    "ementa_materia": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+    "descricao_oficial_da_votacao": "Votação nominal do Art. 6º do Substitutivo ao Projeto de Lei Complementar nº 299, de 2026, destacado.",
+    "objeto_votado": "Votação nominal do Art. 6º do Substitutivo ao Projeto de Lei Complementar nº 299, de 2026, destacado.",
+    "contexto_extra": "",
+    "resultado": "aprovado",
+    "placar": {
+     "sim": 45,
+     "nao": 32,
+     "abstencao": 1,
+     "obstrucao": 0,
+     "total": 78
+    },
+    "nao_votaram": {
+     "Não compareceu": 2,
+     "Presidiu (não vota)": 1
+    },
+    "orientacoes": [],
+    "contra_a_propria_bancada": [],
+    "emendas": [],
+    "fontes": [
+     "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594179",
+     "https://legis.senado.leg.br/dadosabertos/processo/9127383"
+    ]
+   }
+  },
+  {
+   "votacao_id": "senado:7117",
+   "slug": "senado-7117",
+   "arquivo": "data/analises/senado-7117.json",
+   "titulo": "Ajuste fiscal",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/senado-7117.html",
+   "contexto": {
+    "casa": "Senado Federal",
+    "data_sessao": "2026-11-18",
+    "materia": "PLP 299/2026",
+    "ementa_materia": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+    "descricao_oficial_da_votacao": "Votação nominal da Emenda nº 40 ao Projeto de Lei Complementar nº 299, de 2026, destacada.",
+    "objeto_votado": "Votação nominal da Emenda nº 40 ao Projeto de Lei Complementar nº 299, de 2026, destacada.",
+    "contexto_extra": "",
+    "resultado": "rejeitado",
+    "placar": {
+     "sim": 30,
+     "nao": 47,
+     "abstencao": 0,
+     "obstrucao": 0,
+     "total": 77
+    },
+    "nao_votaram": {
+     "Não compareceu": 3,
+     "Presidiu (não vota)": 1
+    },
+    "orientacoes": [],
+    "contra_a_propria_bancada": [],
+    "emendas": [
+     {
+      "numero": 40,
+      "autoria": "Senador Rogerio Marinho (PL/RN)",
+      "descricao": "Emenda  ao PLP 299/2026",
+      "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/59ec1c44-38f4-4ca5-90b1-0cb904109a9d",
+      "texto": "SENADO FEDERAL\nGabinete do Senador Rogério Marinho\nEMENDA Nº \n(ao PLP 299/2026)\nDê-se nova redação ao Projeto nos termos dos itens 1 e 2 a seguir.\nItem 1 – Dê-se nova redação ao § 5º do art. 5º, ao caput do art. 6º-C e\nao art. 6º-D; e suprima-se o art. 6º-F, todos da Lei Complementar nº 200, de 30 de\nagosto de 2023, como propostos pelo art. 1º do Projeto, nos termos a seguir:\n“Art. 5º ............................................................................................................\n..........................................................................................................................\n§ 5º A partir de 2027, no exercício em que forem adotadas as medidas\nde que tratam o art. 9º da Lei Complementar nº 101, de 4 de maio de 2000, e o art. 6º-\nC desta Lei Complementar, o crescimento real de que trata o § 1º não será superior\na 0,6% a.a. (seis décimos por cento ao ano).\n................................................................................................................” (NR)\n“Art. 6º-C. Na hipótese do §5º do art. 5º, o Poder Executivo deverá\nadotar as medidas de contenção de despesas necessárias à obtenção de resultado\nprimário igual ou superior ao centro do intervalo de que trata inciso IV do § 5º do\nart. 4º da Lei Complementar nº 101, de 4 de maio de 2000.\n................................................................................................................” (NR)\n“Art. 6º-D. Para efeito do art. 6º-C e do art. 9º da Lei Complementar\nnº 101, de 4 de maio de 2000, também poderão ser reduzidas ou canceladas\nquaisquer despesas primárias classificadas como Resultado Primário 1 – Primária\nObrigatória, ressalvadas as obrigações constitucionais devidamente discriminadas\nno Anexo III da Lei de Diretrizes Orçamentárias.”\n“Art. 6º-F. (Suprimir)\nItem 2 – Suprimam-se os arts. 2º, 7º, 14 e 15; e dê-se nova redação ao\ncaput do art. 11 e ao parágrafo único do art. 12 do Projeto, nos termos a seguir:\nSF/26169.33385-07 (LexEdit)\n“Art. 2º (Suprimir)”\n“Art. 7º (Suprimir)”\n“Art. 11. Fica o Poder Executivo Federal autorizado a desvincular até\n40% (quarenta por cento) do superávit financeiro do exercício anterior das fontes\nlegalmente vinculadas a finalidade específica, inclusive mediante fundos, para o\ncumprimento do inciso III do art. 167 da Constituição Federal, não incidindo o\ndisposto no parágrafo único do art. 8º da Lei Complementar nº 101, de 4 de maio\nde 2000, e no art. 73 da Lei nº 4.320, de 17 de março de 1964.\n........................................................................................................................ ”\n“Art. 12. ..........................................................................................................\nParágrafo único. A lei de diretrizes orçamentárias conterá\ndemonstrativo da redução dos valores na respectiva lei orçamentária, devendo\ndiscriminar o montante que será reduzido do limite de que trata o art. 3º da Lei\nComplementar nº 200, de 30 de agosto de 2023.\nI – (Suprim"
+     }
+    ],
+    "fontes": [
+     "https://legis.senado.leg.br/dadosabertos/votacao?codigoSessao=594179",
+     "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+     "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/59ec1c44-38f4-4ca5-90b1-0cb904109a9d"
+    ]
+   }
+  },
+  {
    "votacao_id": "senado:7116",
    "slug": "senado-7116",
    "arquivo": "data/analises/senado-7116.json",

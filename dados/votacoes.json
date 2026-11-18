@@ -161,18 +161,18 @@
   "titulo": "Ajuste fiscal",
   "resultado": "aprovado",
   "placar": {
-   "sim": 0,
-   "nao": 0,
+   "sim": 49,
+   "nao": 31,
    "abstencao": 0,
    "obstrucao": 0,
    "presente_sem_voto": 0,
-   "presidencia": 0,
+   "presidencia": 1,
    "ausencia_justificada": 0,
    "nao_compareceu": 0,
-   "outros": 0,
-   "total": 0
+   "outros": 1,
+   "total": 80
   },
-  "nominal": false,
+  "nominal": true,
   "primeiro_visto_em": "2026-11-18T18:18:14"
  },
  {
@@ -183,18 +183,18 @@
   "titulo": "Ajuste fiscal",
   "resultado": "aprovado",
   "placar": {
-   "sim": 0,
-   "nao": 0,
-   "abstencao": 0,
+   "sim": 45,
+   "nao": 32,
+   "abstencao": 1,
    "obstrucao": 0,
    "presente_sem_voto": 0,
-   "presidencia": 0,
+   "presidencia": 1,
    "ausencia_justificada": 0,
-   "nao_compareceu": 0,
-   "outros": 0,
-   "total": 0
+   "nao_compareceu": 2,
+   "outros": 3,
+   "total": 78
   },
-  "nominal": false,
+  "nominal": true,
   "primeiro_visto_em": "2026-11-18T18:03:31"
  },
  {
@@ -205,18 +205,18 @@
   "titulo": "Ajuste fiscal",
   "resultado": "rejeitado",
   "placar": {
-   "sim": 0,
-   "nao": 0,
+   "sim": 30,
+   "nao": 47,
    "abstencao": 0,
    "obstrucao": 0,
    "presente_sem_voto": 0,
-   "presidencia": 0,
+   "presidencia": 1,
    "ausencia_justificada": 0,
-   "nao_compareceu": 0,
-   "outros": 0,
-   "total": 0
+   "nao_compareceu": 3,
+   "outros": 4,
+   "total": 77
   },
-  "nominal": false,
+  "nominal": true,
   "primeiro_visto_em": "2026-11-18T17:48:34"
  },
  {
