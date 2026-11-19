@@ -25,7 +25,7 @@
      "total": 72
     },
     "nao_votaram": {
-     "Não compareceu": 8,
+     "Presente, não registrou voto": 8,
      "Presidiu (não vota)": 1
     },
     "orientacoes": [],
@@ -94,7 +94,7 @@
      "total": 78
     },
     "nao_votaram": {
-     "Não compareceu": 2,
+     "Presente, não registrou voto": 2,
      "Presidiu (não vota)": 1
     },
     "orientacoes": [],
@@ -129,7 +129,7 @@
      "total": 77
     },
     "nao_votaram": {
-     "Não compareceu": 3,
+     "Presente, não registrou voto": 3,
      "Presidiu (não vota)": 1
     },
     "orientacoes": [],
