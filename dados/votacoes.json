@@ -1419,9 +1419,9 @@
    "nao": 0,
    "abstencao": 0,
    "obstrucao": 0,
-   "presente_sem_voto": 5,
+   "presente_sem_voto": 4,
    "presidencia": 1,
-   "ausencia_justificada": 7,
+   "ausencia_justificada": 8,
    "nao_compareceu": 0,
    "outros": 13,
    "total": 68
