@@ -3,6 +3,124 @@
  "prompt": "prompts/analise_votacao.md",
  "pendentes": [
   {
+   "votacao_id": "camara:2655708-8",
+   "slug": "camara-2655708-8",
+   "arquivo": "data/analises/camara-2655708-8.json",
+   "titulo": "Conferir ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições…",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/camara-2655708-8.html",
+   "contexto": {
+    "casa": "Câmara dos Deputados",
+    "data_sessao": "2026-11-23",
+    "materia": "PLP 299/2026",
+    "ementa_materia": "Altera a Lei Complementar nº?200, de 30 de agosto de 2023, a Lei Complementar nº?176, de 29 de dezembro de 2020, a Lei Complementar nº?235, de 27 de agosto de 2026, a Lei Complementar nº?224, de 26 de dezembro de 2025, a Lei nº?11.540, de 12 de novembro de 2007, e a Lei nº?9.796, de 5 de maio de 1999, para conferir ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+    "descricao_oficial_da_votacao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 318; Não: 135; Abstenção: 6; Total: 459.",
+    "objeto_votado": "",
+    "contexto_extra": "",
+    "resultado": "aprovado",
+    "placar": {
+     "sim": 318,
+     "nao": 135,
+     "abstencao": 6,
+     "obstrucao": 8,
+     "total": 459
+    },
+    "nao_votaram": {
+     "Presidiu (não vota)": 1
+    },
+    "orientacoes": [
+     {
+      "bancada": "Bl UniPpPsd...",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "Fdr PSOL-REDE",
+      "orientacao": "Obstrução"
+     },
+     {
+      "bancada": "Fdr PT-PCdoB-PV",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "Governo",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "Maioria",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "Minoria",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "Oposição",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "AVANTE",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "MISSÃO",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "NOVO",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "PDT",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "PL",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "PRD",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "PSB",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "SOLIDARIEDADE",
+      "orientacao": "sem orientação"
+     }
+    ],
+    "contra_a_propria_bancada": [
+     {
+      "nome": "João Carlos Bacelar",
+      "partido": "PL",
+      "uf": "BA",
+      "voto": "Sim",
+      "orientacao": "Não"
+     },
+     {
+      "nome": "Marcelo Álvaro Antônio",
+      "partido": "PL",
+      "uf": "MG",
+      "voto": "Sim",
+      "orientacao": "Não"
+     },
+     {
+      "nome": "Vinicius Gurgel",
+      "partido": "PL",
+      "uf": "AP",
+      "voto": "Sim",
+      "orientacao": "Não"
+     }
+    ],
+    "emendas": [],
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2655708-8",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2655708-8/votos",
+     "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570"
+    ]
+   }
+  },
+  {
    "votacao_id": "senado:7120",
    "slug": "senado-7120",
    "arquivo": "data/analises/senado-7120.json",
