@@ -138,7 +138,304 @@
    "bancada": "PL"
   }
  ],
- "nao_registrados": [],
+ "nao_registrados": [
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:178876",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Célio Silveira",
+   "partido": "MDB",
+   "uf": "GO"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:204436",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Isnaldo Bulhões Jr.",
+   "partido": "MDB",
+   "uf": "AL"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:220586",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Rafael Brito",
+   "partido": "MDB",
+   "uf": "AL"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:178987",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Orlando Silva",
+   "partido": "PCdoB",
+   "uf": "SP"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:73801",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Renildo Calheiros",
+   "partido": "PCdoB",
+   "uf": "PE"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:220604",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Marcos Tavares",
+   "partido": "PDT",
+   "uf": "RJ"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:74158",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Mário Heringer",
+   "partido": "PDT",
+   "uf": "MG"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:220673",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Delegado Caveira",
+   "partido": "PL",
+   "uf": "PA"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:204444",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Helio Lopes",
+   "partido": "PL",
+   "uf": "RJ"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:204526",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Luiz Philippe de Orleans e Bragança",
+   "partido": "PL",
+   "uf": "SP"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:178983",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Marcio Alvino",
+   "partido": "PL",
+   "uf": "SP"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:178946",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Soraya Santos",
+   "partido": "PL",
+   "uf": "RJ"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:220552",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Zucco",
+   "partido": "PL",
+   "uf": "RS"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:204517",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Zé Vitor",
+   "partido": "PL",
+   "uf": "MG"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:204511",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "David Soares",
+   "partido": "PODE",
+   "uf": "SP"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:160527",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Aguinaldo Ribeiro",
+   "partido": "PP",
+   "uf": "PB"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:204450",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Doutor Luizinho",
+   "partido": "PP",
+   "uf": "RJ"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:66385",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Julio Arcoverde",
+   "partido": "PP",
+   "uf": "PI"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:204524",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Pinheirinho",
+   "partido": "PP",
+   "uf": "MG"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:204360",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Silvia Cristina",
+   "partido": "PP",
+   "uf": "RO"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:123086",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Átila Lira",
+   "partido": "PP",
+   "uf": "PI"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:204566",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Marreca Filho",
+   "partido": "PRD",
+   "uf": "MA"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:160548",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Jonas Donizette",
+   "partido": "PSB",
+   "uf": "SP"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:74262",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Carlos Sampaio",
+   "partido": "PSD",
+   "uf": "SP"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:204497",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Júnior Ferrari",
+   "partido": "PSD",
+   "uf": "PA"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:220565",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Delegada Adriana Accorsi",
+   "partido": "PT",
+   "uf": "GO"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:74581",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Gilmar Machado",
+   "partido": "PT",
+   "uf": "MG"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:204480",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Rogério Correia",
+   "partido": "PT",
+   "uf": "MG"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:74371",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Rubens Otoni",
+   "partido": "PT",
+   "uf": "GO"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:214694",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Jorge Goetten",
+   "partido": "REPUBLICANOS",
+   "uf": "SC"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:204506",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Marcos Pereira",
+   "partido": "REPUBLICANOS",
+   "uf": "SP"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:220572",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Marussa Boldrin",
+   "partido": "REPUBLICANOS",
+   "uf": "GO"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:141518",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Paulinho da Força",
+   "partido": "SOLIDARIEDADE",
+   "uf": "SP"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:220649",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Delegado da Cunha",
+   "partido": "UNIÃO",
+   "uf": "SP"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:178843",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Marx Beltrão",
+   "partido": "UNIÃO",
+   "uf": "AL"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:178860",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Paulo Azi",
+   "partido": "UNIÃO",
+   "uf": "BA"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:220626",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Rafael Simoes",
+   "partido": "UNIÃO",
+   "uf": "MG"
+  }
+ ],
  "votos": [
   {
    "votacao_id": "camara:2655708-8",

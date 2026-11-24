@@ -174,6 +174,14 @@
   },
   {
    "votacao_id": "camara:2655570-30",
+   "parlamentar_id": "camara:220604",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Marcos Tavares",
+   "partido": "PDT",
+   "uf": "RJ"
+  },
+  {
+   "votacao_id": "camara:2655570-30",
    "parlamentar_id": "camara:213762",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Carla Dickson",
@@ -190,11 +198,51 @@
   },
   {
    "votacao_id": "camara:2655570-30",
+   "parlamentar_id": "camara:220673",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Delegado Caveira",
+   "partido": "PL",
+   "uf": "PA"
+  },
+  {
+   "votacao_id": "camara:2655570-30",
+   "parlamentar_id": "camara:204526",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Luiz Philippe de Orleans e Bragança",
+   "partido": "PL",
+   "uf": "SP"
+  },
+  {
+   "votacao_id": "camara:2655570-30",
+   "parlamentar_id": "camara:204517",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Zé Vitor",
+   "partido": "PL",
+   "uf": "MG"
+  },
+  {
+   "votacao_id": "camara:2655570-30",
+   "parlamentar_id": "camara:204511",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "David Soares",
+   "partido": "PODE",
+   "uf": "SP"
+  },
+  {
+   "votacao_id": "camara:2655570-30",
    "parlamentar_id": "camara:204419",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Glaustin da Fokus",
    "partido": "PODE",
    "uf": "GO"
+  },
+  {
+   "votacao_id": "camara:2655570-30",
+   "parlamentar_id": "camara:204524",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Pinheirinho",
+   "partido": "PP",
+   "uf": "MG"
   },
   {
    "votacao_id": "camara:2655570-30",
@@ -222,6 +270,14 @@
   },
   {
    "votacao_id": "camara:2655570-30",
+   "parlamentar_id": "camara:220565",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Delegada Adriana Accorsi",
+   "partido": "PT",
+   "uf": "GO"
+  },
+  {
+   "votacao_id": "camara:2655570-30",
    "parlamentar_id": "camara:141470",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "José Guimarães",
@@ -246,11 +302,27 @@
   },
   {
    "votacao_id": "camara:2655570-30",
+   "parlamentar_id": "camara:220572",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Marussa Boldrin",
+   "partido": "REPUBLICANOS",
+   "uf": "GO"
+  },
+  {
+   "votacao_id": "camara:2655570-30",
    "parlamentar_id": "camara:74356",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Silas Câmara",
    "partido": "REPUBLICANOS",
    "uf": "AM"
+  },
+  {
+   "votacao_id": "camara:2655570-30",
+   "parlamentar_id": "camara:141518",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Paulinho da Força",
+   "partido": "SOLIDARIEDADE",
+   "uf": "SP"
   },
   {
    "votacao_id": "camara:2655570-30",

@@ -1174,7 +1174,7 @@
     },
     "nao_votaram": {
      "Presidiu (não vota)": 1,
-     "Não registrou voto (inferido: não consta na lista oficial de votos desta votação)": 14
+     "Não registrou voto (inferido: não consta na lista oficial de votos desta votação)": 23
     },
     "orientacoes": [
      {
@@ -1299,7 +1299,8 @@
      "total": 459
     },
     "nao_votaram": {
-     "Presidiu (não vota)": 1
+     "Presidiu (não vota)": 1,
+     "Não registrou voto (inferido: não consta na lista oficial de votos desta votação)": 37
     },
     "orientacoes": [
      {
