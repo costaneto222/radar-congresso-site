@@ -3,6 +3,146 @@
  "prompt": "prompts/analise_votacao.md",
  "pendentes": [
   {
+   "votacao_id": "camara:2332174-59",
+   "slug": "camara-2332174-59",
+   "arquivo": "data/analises/camara-2332174-59.json",
+   "titulo": "Reconhece a responsabilidade do Estado pelo desaparecimento forçado das 11 vítimas de Acari e estabelece Medidas de Reparação e Não-Repetição para…",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/camara-2332174-59.html",
+   "contexto": {
+    "casa": "Câmara dos Deputados",
+    "data_sessao": "2026-11-24",
+    "materia": "PL 1969/2022",
+    "ementa_materia": "Reconhece a responsabilidade do Estado pelo desaparecimento forçado das 11 vítimas de Acari e estabelece Medidas de Reparação e Não-Repetição para vítimas e familiares da Chacina de Acari.",
+    "descricao_oficial_da_votacao": "Aprovado o Substitutivo ao Projeto de Lei nº 1.969, de 2022, da Comissão de Direitos Humanos, Minorias e Igualdade Racial. Sim: 292; Não: 147; Abstenção: 2; Total: 441.",
+    "objeto_votado": "PPP 1/0: Parecer proferido em Plenário pelo Relator Dep. Orlando Silva (PCdoB/SP) pela: • Comissão de Finanças e Tributação, que conclui pela compatibilidade e adequação orçamentária e financeira do Projeto de Lei n° 1.969, de 2022, e do Substitutivo da Comissão de Direitos Humanos, Minorias e Igualdade Racial. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei n° 1.969, de 2022, e do Substitutivo da Comissão de Direitos Humanos, Minorias e Igualdade Racial.",
+    "contexto_extra": "Votação em turno único.\nParecer proferido em Plenário pelo Relator Dep. Orlando Silva (PCdoB/SP) pela:\r\n• Comissão de Finanças e Tributação, que conclui pela compatibilidade e adequação orçamentária e financeira do Projeto de Lei n° 1.969, de 2022, e do Substitutivo da Comissão de Direitos Humanos, Minorias e Igualdade Racial.\r\n• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei n° 1.969, de 2022, e do Substitutivo da Comissão de Direitos Humanos, Minorias e Igualdade Racial.",
+    "resultado": "aprovado",
+    "placar": {
+     "sim": 292,
+     "nao": 147,
+     "abstencao": 2,
+     "obstrucao": 0,
+     "total": 441
+    },
+    "nao_votaram": {
+     "Presidiu (não vota)": 1,
+     "Não registrou voto (inferido: não consta na lista oficial de votos desta votação)": 66
+    },
+    "orientacoes": [
+     {
+      "bancada": "Bl UniPpPsd...",
+      "orientacao": "Liberado"
+     },
+     {
+      "bancada": "Fdr PSOL-REDE",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "Fdr PT-PCdoB-PV",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "Governo",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "Maioria",
+      "orientacao": "Liberado"
+     },
+     {
+      "bancada": "Minoria",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "Oposição",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "AVANTE",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "MISSÃO",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "NOVO",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "PDT",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "PL",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "PRD",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "PSB",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "SOLIDARIEDADE",
+      "orientacao": "sem orientação"
+     }
+    ],
+    "contra_a_propria_bancada": [
+     {
+      "nome": "Carla Dickson",
+      "partido": "PL",
+      "uf": "RN",
+      "voto": "Sim",
+      "orientacao": "Não"
+     },
+     {
+      "nome": "Coronel Assis",
+      "partido": "PL",
+      "uf": "MT",
+      "voto": "Sim",
+      "orientacao": "Não"
+     },
+     {
+      "nome": "Greyce Elias",
+      "partido": "PL",
+      "uf": "MG",
+      "voto": "Sim",
+      "orientacao": "Não"
+     },
+     {
+      "nome": "João Carlos Bacelar",
+      "partido": "PL",
+      "uf": "BA",
+      "voto": "Sim",
+      "orientacao": "Não"
+     },
+     {
+      "nome": "Zucco",
+      "partido": "PL",
+      "uf": "RS",
+      "voto": "Sim",
+      "orientacao": "Não"
+     },
+     {
+      "nome": "Dr. Victor Linhalis",
+      "partido": "PSB",
+      "uf": "ES",
+      "voto": "Não",
+      "orientacao": "Sim"
+     }
+    ],
+    "emendas": [],
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2332174-59",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2332174-59/votos",
+     "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2332174"
+    ]
+   }
+  },
+  {
    "votacao_id": "camara:2655570-60",
    "slug": "camara-2655570-60",
    "arquivo": "data/analises/camara-2655570-60.json",

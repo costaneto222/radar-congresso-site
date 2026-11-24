@@ -1,5 +1,49 @@
 [
  {
+  "id": "camara:2332174-62",
+  "casa": "camara",
+  "data_iso": "2026-11-24",
+  "materia": "PL 1969/2022",
+  "titulo": "Reconhece a responsabilidade do Estado pelo desaparecimento forçado das 11 vítimas de Acari e estabelece Medidas de Reparação e Não-Repetição para…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-24T18:02:01"
+ },
+ {
+  "id": "camara:2332174-59",
+  "casa": "camara",
+  "data_iso": "2026-11-24",
+  "materia": "PL 1969/2022",
+  "titulo": "Reconhece a responsabilidade do Estado pelo desaparecimento forçado das 11 vítimas de Acari e estabelece Medidas de Reparação e Não-Repetição para…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 292,
+   "nao": 147,
+   "abstencao": 2,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 1,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 1,
+   "total": 441
+  },
+  "nominal": true,
+  "primeiro_visto_em": "2026-11-24T18:02:03"
+ },
+ {
   "id": "camara:2253448-101",
   "casa": "camara",
   "data_iso": "2026-11-24",
