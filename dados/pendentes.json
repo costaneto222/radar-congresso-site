@@ -3,6 +3,132 @@
  "prompt": "prompts/analise_votacao.md",
  "pendentes": [
   {
+   "votacao_id": "camara:2655570-30",
+   "slug": "camara-2655570-30",
+   "arquivo": "data/analises/camara-2655570-30.json",
+   "titulo": "Conferir ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições…",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/camara-2655570-30.html",
+   "contexto": {
+    "casa": "Câmara dos Deputados",
+    "data_sessao": "2026-11-23",
+    "materia": "PLP 299/2026",
+    "ementa_materia": "Altera a Lei Complementar nº?200, de 30 de agosto de 2023, a Lei Complementar nº?176, de 29 de dezembro de 2020, a Lei Complementar nº?235, de 27 de agosto de 2026, a Lei Complementar nº?224, de 26 de dezembro de 2025, a Lei nº?11.540, de 12 de novembro de 2007, e a Lei nº?9.796, de 5 de maio de 1999, para conferir ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+    "descricao_oficial_da_votacao": "Rejeitado o Requerimento. Sim: 127; Não: 347; Abstenção: 7; Total: 481.",
+    "objeto_votado": "EMP 90/0: Complementa as normas de sustentabilidade da dívida pública federal de que tratam o inciso VIII e o parágrafo único do art. 163 da Constituição Federal; altera as Leis Complementares nº 101, de 4 de maio de 2000, nº 200, de 30 de agosto de 2023, nº 224, de 26 de dezembro de 2025, e nº 235, de 27 de agosto de 2026; e dá outras providências.",
+    "contexto_extra": "Parecer proferido em Plenário pelo Relator Dep. Mauro Benevides Filho (UNIÃO/CE) pela:\r\n• Comissão de Finanças e Tributação, que conclui pela compatibilidade e adequação financeira e orçamentária do PLP nº 299, de 2026; e, no mérito, por sua aprovação.\r\n• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do PLP nº 299, de 2026.",
+    "resultado": "rejeitado",
+    "placar": {
+     "sim": 127,
+     "nao": 347,
+     "abstencao": 7,
+     "obstrucao": 0,
+     "total": 481
+    },
+    "nao_votaram": {
+     "Presidiu (não vota)": 1,
+     "Não registrou voto (inferido: não consta na lista oficial de votos desta votação)": 14
+    },
+    "orientacoes": [
+     {
+      "bancada": "Bl UniPpPsd...",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "Fdr PSOL-REDE",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "Fdr PT-PCdoB-PV",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "Governo",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "Maioria",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "Minoria",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "Oposição",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "AVANTE",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "MISSÃO",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "NOVO",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "PDT",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "PL",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "PRD",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "PSB",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "SOLIDARIEDADE",
+      "orientacao": "sem orientação"
+     }
+    ],
+    "contra_a_propria_bancada": [
+     {
+      "nome": "Dani Cunha",
+      "partido": "PL",
+      "uf": "RJ",
+      "voto": "Não",
+      "orientacao": "Sim"
+     },
+     {
+      "nome": "João Carlos Bacelar",
+      "partido": "PL",
+      "uf": "BA",
+      "voto": "Não",
+      "orientacao": "Sim"
+     },
+     {
+      "nome": "Lincoln Portela",
+      "partido": "PL",
+      "uf": "MG",
+      "voto": "Não",
+      "orientacao": "Sim"
+     },
+     {
+      "nome": "Vinicius Gurgel",
+      "partido": "PL",
+      "uf": "AP",
+      "voto": "Não",
+      "orientacao": "Sim"
+     }
+    ],
+    "emendas": [],
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-30",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-30/votos",
+     "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570"
+    ]
+   }
+  },
+  {
    "votacao_id": "camara:2655708-8",
    "slug": "camara-2655708-8",
    "arquivo": "data/analises/camara-2655708-8.json",
