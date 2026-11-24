@@ -1,0 +1,117 @@
+{
+ "id": "camara:2655570-47",
+ "casa": "camara",
+ "data_iso": "2026-11-23",
+ "materia": "PLP 299/2026",
+ "descricao": "Rejeitada a Emenda de Plenário nº 23. Sim: 146; Não: 315; Abstenção: 1; Total: 462.",
+ "resultado": "rejeitado",
+ "placar": {
+  "sim": 0,
+  "nao": 0,
+  "abstencao": 0,
+  "obstrucao": 0,
+  "presente_sem_voto": 0,
+  "presidencia": 0,
+  "ausencia_justificada": 0,
+  "nao_compareceu": 0,
+  "outros": 0,
+  "total": 0
+ },
+ "orientacoes": [
+  {
+   "votacao_id": "camara:2655570-47",
+   "bancada": "Bl UniPpPsd...",
+   "orientacao": "Não",
+   "tipo": "B"
+  },
+  {
+   "votacao_id": "camara:2655570-47",
+   "bancada": "Fdr PSOL-REDE",
+   "orientacao": "Obstrução",
+   "tipo": "B"
+  },
+  {
+   "votacao_id": "camara:2655570-47",
+   "bancada": "Fdr PT-PCdoB-PV",
+   "orientacao": "Não",
+   "tipo": "B"
+  },
+  {
+   "votacao_id": "camara:2655570-47",
+   "bancada": "Governo",
+   "orientacao": "Não",
+   "tipo": "B"
+  },
+  {
+   "votacao_id": "camara:2655570-47",
+   "bancada": "Maioria",
+   "orientacao": "Não",
+   "tipo": "B"
+  },
+  {
+   "votacao_id": "camara:2655570-47",
+   "bancada": "Minoria",
+   "orientacao": "Sim",
+   "tipo": "B"
+  },
+  {
+   "votacao_id": "camara:2655570-47",
+   "bancada": "Oposição",
+   "orientacao": "Sim",
+   "tipo": "B"
+  },
+  {
+   "votacao_id": "camara:2655570-47",
+   "bancada": "AVANTE",
+   "orientacao": "",
+   "tipo": "P"
+  },
+  {
+   "votacao_id": "camara:2655570-47",
+   "bancada": "MISSÃO",
+   "orientacao": "",
+   "tipo": "P"
+  },
+  {
+   "votacao_id": "camara:2655570-47",
+   "bancada": "NOVO",
+   "orientacao": "Sim",
+   "tipo": "P"
+  },
+  {
+   "votacao_id": "camara:2655570-47",
+   "bancada": "PDT",
+   "orientacao": "Não",
+   "tipo": "P"
+  },
+  {
+   "votacao_id": "camara:2655570-47",
+   "bancada": "PL",
+   "orientacao": "Sim",
+   "tipo": "P"
+  },
+  {
+   "votacao_id": "camara:2655570-47",
+   "bancada": "PRD",
+   "orientacao": "",
+   "tipo": "P"
+  },
+  {
+   "votacao_id": "camara:2655570-47",
+   "bancada": "PSB",
+   "orientacao": "Não",
+   "tipo": "P"
+  },
+  {
+   "votacao_id": "camara:2655570-47",
+   "bancada": "SOLIDARIEDADE",
+   "orientacao": "",
+   "tipo": "P"
+  }
+ ],
+ "rebeldes": [],
+ "nao_registrados": [],
+ "votos": [],
+ "fonte_url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-47",
+ "analise": null
+}

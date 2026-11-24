@@ -3,6 +3,153 @@
  "prompt": "prompts/analise_votacao.md",
  "pendentes": [
   {
+   "votacao_id": "camara:2655570-44",
+   "slug": "camara-2655570-44",
+   "arquivo": "data/analises/camara-2655570-44.json",
+   "titulo": "Conferir ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições…",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/camara-2655570-44.html",
+   "contexto": {
+    "casa": "Câmara dos Deputados",
+    "data_sessao": "2026-11-23",
+    "materia": "PLP 299/2026",
+    "ementa_materia": "Altera a Lei Complementar nº?200, de 30 de agosto de 2023, a Lei Complementar nº?176, de 29 de dezembro de 2020, a Lei Complementar nº?235, de 27 de agosto de 2026, a Lei Complementar nº?224, de 26 de dezembro de 2025, a Lei nº?11.540, de 12 de novembro de 2007, e a Lei nº?9.796, de 5 de maio de 1999, para conferir ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+    "descricao_oficial_da_votacao": "Mantido o texto. Sim: 413; Não: 29; Total: 442.",
+    "objeto_votado": "PRLE 1/0: Altera a Lei Complementar nº 200, de 30 de agosto de 2023, a Lei Complementar nº 176, de 29 de dezembro de 2020, a Lei Complementar nº 235, de 27 de agosto de 2026, a Lei Complementar nº 224, de 26 de dezembro de 2025, a Lei nº 11.540, de 12 de novembro de 2007, e a Lei nº 9.796, de 5 de maio de 1999, para conferir ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+    "contexto_extra": "Votação do DTQ 1 (Fdr PSOL-REDE): Destaque para Votação em Separado do §5° do Art. 5° da Lei Complementar n° 200 de 2023, que consta do Art 1°, apresentado ao PLP 299/2026 (161, I).\nParecer às Emendas de Plenário proferido pelo Relator Dep. Mauro Benevides Filho (UNIÃO/CE) pela:\r\n• Comissão de Finanças e Tributação, que conclui pela adequação financeira e orçamentária de todas as Emendas de Plenário; e, no mérito, pela sua rejeição.\r\n• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa de todas as Emendas de Plenário.",
+    "resultado": "",
+    "placar": {
+     "sim": 413,
+     "nao": 29,
+     "abstencao": 0,
+     "obstrucao": 0,
+     "total": 442
+    },
+    "nao_votaram": {
+     "Presidiu (não vota)": 1,
+     "Não registrou voto (inferido: não consta na lista oficial de votos desta votação)": 62
+    },
+    "orientacoes": [
+     {
+      "bancada": "Bl UniPpPsd...",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "Fdr PSOL-REDE",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "Fdr PT-PCdoB-PV",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "Governo",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "Maioria",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "Minoria",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "Oposição",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "AVANTE",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "MISSÃO",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "NOVO",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "PDT",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "PL",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "PRD",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "PSB",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "SOLIDARIEDADE",
+      "orientacao": "sem orientação"
+     }
+    ],
+    "contra_a_propria_bancada": [
+     {
+      "nome": "Lincoln Portela",
+      "partido": "PL",
+      "uf": "MG",
+      "voto": "Não",
+      "orientacao": "Sim"
+     },
+     {
+      "nome": "Marcelo Álvaro Antônio",
+      "partido": "PL",
+      "uf": "MG",
+      "voto": "Não",
+      "orientacao": "Sim"
+     },
+     {
+      "nome": "Nikolas Ferreira",
+      "partido": "PL",
+      "uf": "MG",
+      "voto": "Não",
+      "orientacao": "Sim"
+     },
+     {
+      "nome": "Lindbergh Farias",
+      "partido": "PT",
+      "uf": "RJ",
+      "voto": "Não",
+      "orientacao": "Sim"
+     },
+     {
+      "nome": "Natália Bonavides",
+      "partido": "PT",
+      "uf": "RN",
+      "voto": "Não",
+      "orientacao": "Sim"
+     },
+     {
+      "nome": "André Janones",
+      "partido": "REDE",
+      "uf": "MG",
+      "voto": "Sim",
+      "orientacao": "Não"
+     },
+     {
+      "nome": "Marina Silva",
+      "partido": "REDE",
+      "uf": "SP",
+      "voto": "Sim",
+      "orientacao": "Não"
+     }
+    ],
+    "emendas": [],
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-44",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-44/votos",
+     "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570"
+    ]
+   }
+  },
+  {
    "votacao_id": "camara:2655570-41",
    "slug": "camara-2655570-41",
    "arquivo": "data/analises/camara-2655570-41.json",
