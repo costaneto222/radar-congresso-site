@@ -1,5 +1,27 @@
 [
  {
+  "id": "camara:2655570-50",
+  "casa": "camara",
+  "data_iso": "2026-11-23",
+  "materia": "PLP 299/2026",
+  "titulo": "Conferir ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições…",
+  "resultado": "rejeitado",
+  "placar": {
+   "sim": 172,
+   "nao": 282,
+   "abstencao": 2,
+   "obstrucao": 4,
+   "presente_sem_voto": 0,
+   "presidencia": 1,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 1,
+   "total": 456
+  },
+  "nominal": true,
+  "primeiro_visto_em": "2026-11-23T23:32:01"
+ },
+ {
   "id": "camara:2655570-47",
   "casa": "camara",
   "data_iso": "2026-11-23",
@@ -7,18 +29,18 @@
   "titulo": "Conferir ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições…",
   "resultado": "rejeitado",
   "placar": {
-   "sim": 0,
-   "nao": 0,
-   "abstencao": 0,
-   "obstrucao": 0,
+   "sim": 146,
+   "nao": 315,
+   "abstencao": 1,
+   "obstrucao": 6,
    "presente_sem_voto": 0,
-   "presidencia": 0,
+   "presidencia": 1,
    "ausencia_justificada": 0,
    "nao_compareceu": 0,
-   "outros": 0,
-   "total": 0
+   "outros": 1,
+   "total": 462
   },
-  "nominal": false,
+  "nominal": true,
   "primeiro_visto_em": "2026-11-23T23:17:01"
  },
  {
