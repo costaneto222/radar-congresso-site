@@ -1,0 +1,117 @@
+{
+ "id": "camara:2655570-57",
+ "casa": "camara",
+ "data_iso": "2026-11-23",
+ "materia": "PLP 299/2026",
+ "descricao": "Mantido o texto.",
+ "resultado": "",
+ "placar": {
+  "sim": 0,
+  "nao": 0,
+  "abstencao": 0,
+  "obstrucao": 0,
+  "presente_sem_voto": 0,
+  "presidencia": 0,
+  "ausencia_justificada": 0,
+  "nao_compareceu": 0,
+  "outros": 0,
+  "total": 0
+ },
+ "orientacoes": [
+  {
+   "votacao_id": "camara:2655570-57",
+   "bancada": "Bl UniPpPsd...",
+   "orientacao": "Sim",
+   "tipo": "B"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
+   "bancada": "Fdr PSOL-REDE",
+   "orientacao": "Obstrução",
+   "tipo": "B"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
+   "bancada": "Fdr PT-PCdoB-PV",
+   "orientacao": "Sim",
+   "tipo": "B"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
+   "bancada": "Governo",
+   "orientacao": "Sim",
+   "tipo": "B"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
+   "bancada": "Maioria",
+   "orientacao": "Sim",
+   "tipo": "B"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
+   "bancada": "Minoria",
+   "orientacao": "Não",
+   "tipo": "B"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
+   "bancada": "Oposição",
+   "orientacao": "Não",
+   "tipo": "B"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
+   "bancada": "AVANTE",
+   "orientacao": "",
+   "tipo": "P"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
+   "bancada": "MISSÃO",
+   "orientacao": "",
+   "tipo": "P"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
+   "bancada": "NOVO",
+   "orientacao": "Não",
+   "tipo": "P"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
+   "bancada": "PDT",
+   "orientacao": "",
+   "tipo": "P"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
+   "bancada": "PL",
+   "orientacao": "Não",
+   "tipo": "P"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
+   "bancada": "PRD",
+   "orientacao": "",
+   "tipo": "P"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
+   "bancada": "PSB",
+   "orientacao": "",
+   "tipo": "P"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
+   "bancada": "SOLIDARIEDADE",
+   "orientacao": "",
+   "tipo": "P"
+  }
+ ],
+ "rebeldes": [],
+ "nao_registrados": [],
+ "votos": [],
+ "fonte_url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-57",
+ "analise": null
+}
