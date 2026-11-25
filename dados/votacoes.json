@@ -1,5 +1,49 @@
 [
  {
+  "id": "camara:2335264-76",
+  "casa": "camara",
+  "data_iso": "2026-11-25",
+  "materia": "PL 2559/2022",
+  "titulo": "Altera dispositivos do Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal e da Lei nº 9.099, de 26 de setembro de 1995 – Lei…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-25T18:02:01"
+ },
+ {
+  "id": "camara:2335264-73",
+  "casa": "camara",
+  "data_iso": "2026-11-25",
+  "materia": "PL 2559/2022",
+  "titulo": "Altera dispositivos do Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal e da Lei nº 9.099, de 26 de setembro de 1995 – Lei…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-25T18:02:03"
+ },
+ {
   "id": "camara:2394518-63",
   "casa": "camara",
   "data_iso": "2026-11-25",
