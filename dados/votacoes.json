@@ -1,5 +1,49 @@
 [
  {
+  "id": "camara:2647427-46",
+  "casa": "camara",
+  "data_iso": "2026-11-25",
+  "materia": "PL 5542/2026",
+  "titulo": "Estabelecer garantias mínimas para a execução da monitoração eletrônica como medida protetiva de urgência, inclusive quanto à emissão de alertas…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-25T17:17:01"
+ },
+ {
+  "id": "camara:2647427-43",
+  "casa": "camara",
+  "data_iso": "2026-11-25",
+  "materia": "PL 5542/2026",
+  "titulo": "Estabelecer garantias mínimas para a execução da monitoração eletrônica como medida protetiva de urgência, inclusive quanto à emissão de alertas…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-25T17:17:03"
+ },
+ {
   "id": "camara:2332174-62",
   "casa": "camara",
   "data_iso": "2026-11-24",
