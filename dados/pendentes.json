@@ -3,6 +3,139 @@
  "prompt": "prompts/analise_votacao.md",
  "pendentes": [
   {
+   "votacao_id": "camara:2394518-60",
+   "slug": "camara-2394518-60",
+   "arquivo": "data/analises/camara-2394518-60.json",
+   "titulo": "Cria o Protocolo de Acolhimento e Atendimento às vítimas de discriminação racial e condutas análogas nos estabelecimentos de ensino do país, altera…",
+   "pagina": "https://costaneto222.github.io/radar-congresso-site/votacao/camara-2394518-60.html",
+   "contexto": {
+    "casa": "Câmara dos Deputados",
+    "data_sessao": "2026-11-25",
+    "materia": "PL 4887/2023",
+    "ementa_materia": "Cria o Protocolo de Acolhimento  e Atendimento às vítimas de discriminação racial e condutas análogas nos estabelecimentos de ensino do país, altera as Leis nº 13.431, de 4 de abril de 2017, e nº 8.069, de 13 de julho de 1990, e dá outras providências.",
+    "descricao_oficial_da_votacao": "Aprovado o Substitutivo ao Projeto de Lei nº 4.887, de 2023, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família. Sim: 320; Não: 102; Total: 422.",
+    "objeto_votado": "SBT 1/0: PROJETO DE LEI Nº 4.887, DE 2023 - Apensados: PL nº 4.898/2023, PL nº 1.974/2024 e PL nº 1.445/2024- Cria o Protocolo de Acolhimento e Atendimento às vítimas de discriminação racial e condutas análogas nos estabelecimentos de ensino do país, altera as Leis nº 13.431, de 4 de abril de 2017, e nº 8.069, de 13 de julho de 1990, e dá outras providências.",
+    "contexto_extra": "Votação em turno único.\nParecer proferido em Plenário pela Relatora Dep. Benedita da Silva (PT/RJ) pela:\r\n• Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, que conclui pela aprovação do Projeto de Lei nº 4.887, de 2023, principal, e dos Projetos de Lei nº 4.898, de 2023, nº 1.974, de 2024 e nº 1.445, de 2024, apensados, na forma do Substitutivo adotado.\r\n• Comissão de Direitos Humanos, Minorias e Igualdade Racial, que conclui pela aprovação do Projeto de Lei nº 4.887, de 2023, principal, e dos Projetos de Lei nº 4.898, de 2023, nº 1.974, de 2024 e nº 1.445, de 2024, apensados, na forma do Substitutivo adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família.\r\n• Comissão de Educação, que conclui pela aprovação do Projeto de Lei nº 4.887, de 2023, principal, e dos Projetos de Lei nº 4.898, de 2023, nº 1.974, de 2024 e nº 1.445, de 2024, apensados, na forma do Substitutivo adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família.\r\n• Comissão de Finanças e Tributação, que conclui pela não implicação financeira ou orçamentária da matéria em aumento ou diminuição da receita e da despesa pública, não cabendo pronunciamento quanto à adequação financeira ou orçamentária do Projeto de Lei nº 4.887, de 2023, principal, e dos Projetos de Lei nº 4.898, de 2023, nº 1.974, de 2024 e nº 1.445, de 2024, apensados, e do Substitutivo adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família.\r\n• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 4.887, de 2023, principal, e dos Projetos de Lei nº 4.898, de 2023, nº 1.974, de 2024 e nº 1.445, de 2024, apensados, e do Substitutivo adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, com Substitutivo",
+    "resultado": "aprovado",
+    "placar": {
+     "sim": 320,
+     "nao": 102,
+     "abstencao": 0,
+     "obstrucao": 0,
+     "total": 422
+    },
+    "nao_votaram": {
+     "Presidiu (não vota)": 1,
+     "Não registrou voto (inferido: não consta na lista oficial de votos desta votação)": 85
+    },
+    "orientacoes": [
+     {
+      "bancada": "Bl UniPpPsd...",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "Fdr PSOL-REDE",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "Fdr PT-PCdoB-PV",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "Governo",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "Maioria",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "Minoria",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "Oposição",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "AVANTE",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "MISSÃO",
+      "orientacao": "Sim"
+     },
+     {
+      "bancada": "NOVO",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "PDT",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "PL",
+      "orientacao": "Não"
+     },
+     {
+      "bancada": "PRD",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "PSB",
+      "orientacao": "sem orientação"
+     },
+     {
+      "bancada": "SOLIDARIEDADE",
+      "orientacao": "sem orientação"
+     }
+    ],
+    "contra_a_propria_bancada": [
+     {
+      "nome": "Coronel Fernanda",
+      "partido": "PL",
+      "uf": "MT",
+      "voto": "Sim",
+      "orientacao": "Não"
+     },
+     {
+      "nome": "Delegada Ione",
+      "partido": "PL",
+      "uf": "MG",
+      "voto": "Sim",
+      "orientacao": "Não"
+     },
+     {
+      "nome": "João Carlos Bacelar",
+      "partido": "PL",
+      "uf": "BA",
+      "voto": "Sim",
+      "orientacao": "Não"
+     },
+     {
+      "nome": "Rosana Valle",
+      "partido": "PL",
+      "uf": "SP",
+      "voto": "Sim",
+      "orientacao": "Não"
+     },
+     {
+      "nome": "Zucco",
+      "partido": "PL",
+      "uf": "RS",
+      "voto": "Sim",
+      "orientacao": "Não"
+     }
+    ],
+    "emendas": [],
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2394518-60",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2394518-60/votos",
+     "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2394518"
+    ]
+   }
+  },
+  {
    "votacao_id": "camara:2332174-59",
    "slug": "camara-2332174-59",
    "arquivo": "data/analises/camara-2332174-59.json",
