@@ -1,5 +1,49 @@
 [
  {
+  "id": "camara:2532113-40",
+  "casa": "camara",
+  "data_iso": "2026-11-26",
+  "materia": "PDL 366/2025",
+  "titulo": "Aprova o texto do Tratado entre a República Federativa do Brasil e a República Cooperativa da Guiana sobre Auxílio Jurídico Mútuo em Matéria Penal…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-26T12:02:01"
+ },
+ {
+  "id": "camara:2532113-37",
+  "casa": "camara",
+  "data_iso": "2026-11-26",
+  "materia": "PDL 366/2025",
+  "titulo": "Aprova o texto do Tratado entre a República Federativa do Brasil e a República Cooperativa da Guiana sobre Auxílio Jurídico Mútuo em Matéria Penal…",
+  "resultado": "aprovado",
+  "placar": {
+   "sim": 0,
+   "nao": 0,
+   "abstencao": 0,
+   "obstrucao": 0,
+   "presente_sem_voto": 0,
+   "presidencia": 0,
+   "ausencia_justificada": 0,
+   "nao_compareceu": 0,
+   "outros": 0,
+   "total": 0
+  },
+  "nominal": false,
+  "primeiro_visto_em": "2026-11-26T12:02:03"
+ },
+ {
   "id": "camara:2516578-35",
   "casa": "camara",
   "data_iso": "2026-11-26",
