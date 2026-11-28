@@ -315,6 +315,14 @@
   },
   {
    "votacao_id": "camara:2655570-47",
+   "parlamentar_id": "camara:204566",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Marreca Filho",
+   "partido": "PODE",
+   "uf": "MA"
+  },
+  {
+   "votacao_id": "camara:2655570-47",
    "parlamentar_id": "camara:233594",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Rafael Fera",
@@ -376,14 +384,6 @@
    "nome": "Fred Costa",
    "partido": "PRD",
    "uf": "MG"
-  },
-  {
-   "votacao_id": "camara:2655570-47",
-   "parlamentar_id": "camara:204566",
-   "motivo": "nao_consta_na_lista_de_votos",
-   "nome": "Marreca Filho",
-   "partido": "PRD",
-   "uf": "MA"
   },
   {
    "votacao_id": "camara:2655570-47",

@@ -269,6 +269,14 @@
   },
   {
    "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:204566",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Marreca Filho",
+   "partido": "PODE",
+   "uf": "MA"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
    "parlamentar_id": "camara:160527",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Aguinaldo Ribeiro",
@@ -314,14 +322,6 @@
    "nome": "Átila Lira",
    "partido": "PP",
    "uf": "PI"
-  },
-  {
-   "votacao_id": "camara:2655708-8",
-   "parlamentar_id": "camara:204566",
-   "motivo": "nao_consta_na_lista_de_votos",
-   "nome": "Marreca Filho",
-   "partido": "PRD",
-   "uf": "MA"
   },
   {
    "votacao_id": "camara:2655708-8",
