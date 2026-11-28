@@ -258,6 +258,14 @@
   },
   {
    "votacao_id": "camara:2655570-50",
+   "parlamentar_id": "camara:225846",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Itamar Paim",
+   "partido": "PL",
+   "uf": "PR"
+  },
+  {
+   "votacao_id": "camara:2655570-50",
    "parlamentar_id": "camara:74585",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Lincoln Portela",
@@ -295,14 +303,6 @@
    "nome": "Dra. Alessandra Haber",
    "partido": "PODE",
    "uf": "PA"
-  },
-  {
-   "votacao_id": "camara:2655570-50",
-   "parlamentar_id": "camara:204566",
-   "motivo": "nao_consta_na_lista_de_votos",
-   "nome": "Marreca Filho",
-   "partido": "PODE",
-   "uf": "MA"
   },
   {
    "votacao_id": "camara:2655570-50",
@@ -370,6 +370,14 @@
   },
   {
    "votacao_id": "camara:2655570-50",
+   "parlamentar_id": "camara:204566",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Marreca Filho",
+   "partido": "PRD",
+   "uf": "MA"
+  },
+  {
+   "votacao_id": "camara:2655570-50",
    "parlamentar_id": "camara:220662",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Lucas Ramos",
@@ -421,6 +429,14 @@
    "parlamentar_id": "camara:92776",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Stefano Aguiar",
+   "partido": "PSD",
+   "uf": "MG"
+  },
+  {
+   "votacao_id": "camara:2655570-50",
+   "parlamentar_id": "camara:160518",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Weliton Prado",
    "partido": "PSD",
    "uf": "MG"
   },
@@ -487,6 +503,14 @@
    "nome": "Jorge Solla",
    "partido": "PT",
    "uf": "BA"
+  },
+  {
+   "votacao_id": "camara:2655570-50",
+   "parlamentar_id": "camara:162067",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Kiko Celeguim",
+   "partido": "PT",
+   "uf": "SP"
   },
   {
    "votacao_id": "camara:2655570-50",

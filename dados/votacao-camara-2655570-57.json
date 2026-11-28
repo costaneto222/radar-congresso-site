@@ -263,6 +263,14 @@
   },
   {
    "votacao_id": "camara:2655570-57",
+   "parlamentar_id": "camara:225846",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Itamar Paim",
+   "partido": "PL",
+   "uf": "PR"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
    "parlamentar_id": "camara:178954",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Lucio Mosquini",
@@ -300,14 +308,6 @@
    "nome": "Marangoni",
    "partido": "PODE",
    "uf": "SP"
-  },
-  {
-   "votacao_id": "camara:2655570-57",
-   "parlamentar_id": "camara:204566",
-   "motivo": "nao_consta_na_lista_de_votos",
-   "nome": "Marreca Filho",
-   "partido": "PODE",
-   "uf": "MA"
   },
   {
    "votacao_id": "camara:2655570-57",
@@ -375,6 +375,14 @@
   },
   {
    "votacao_id": "camara:2655570-57",
+   "parlamentar_id": "camara:204566",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Marreca Filho",
+   "partido": "PRD",
+   "uf": "MA"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
    "parlamentar_id": "camara:204550",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Júnior Mano",
@@ -439,6 +447,14 @@
   },
   {
    "votacao_id": "camara:2655570-57",
+   "parlamentar_id": "camara:160518",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Weliton Prado",
+   "partido": "PSD",
+   "uf": "MG"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
    "parlamentar_id": "camara:74646",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Aécio Neves",
@@ -492,6 +508,14 @@
    "nome": "José Airton Félix Cirilo",
    "partido": "PT",
    "uf": "CE"
+  },
+  {
+   "votacao_id": "camara:2655570-57",
+   "parlamentar_id": "camara:162067",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Kiko Celeguim",
+   "partido": "PT",
+   "uf": "SP"
   },
   {
    "votacao_id": "camara:2655570-57",

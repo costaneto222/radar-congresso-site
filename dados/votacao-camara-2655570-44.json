@@ -313,6 +313,14 @@
   },
   {
    "votacao_id": "camara:2655570-44",
+   "parlamentar_id": "camara:225846",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Itamar Paim",
+   "partido": "PL",
+   "uf": "PR"
+  },
+  {
+   "votacao_id": "camara:2655570-44",
    "parlamentar_id": "camara:141458",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "João Carlos Bacelar",
@@ -521,6 +529,14 @@
   },
   {
    "votacao_id": "camara:2655570-44",
+   "parlamentar_id": "camara:160518",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Weliton Prado",
+   "partido": "PSD",
+   "uf": "MG"
+  },
+  {
+   "votacao_id": "camara:2655570-44",
    "parlamentar_id": "camara:204560",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Adolfo Viana",
@@ -580,6 +596,14 @@
    "parlamentar_id": "camara:220640",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Juliana Cardoso",
+   "partido": "PT",
+   "uf": "SP"
+  },
+  {
+   "votacao_id": "camara:2655570-44",
+   "parlamentar_id": "camara:162067",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Kiko Celeguim",
    "partido": "PT",
    "uf": "SP"
   },

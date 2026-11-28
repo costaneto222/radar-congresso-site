@@ -213,6 +213,14 @@
   },
   {
    "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:225846",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Itamar Paim",
+   "partido": "PL",
+   "uf": "PR"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
    "parlamentar_id": "camara:204526",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Luiz Philippe de Orleans e Bragança",
@@ -258,14 +266,6 @@
    "nome": "David Soares",
    "partido": "PODE",
    "uf": "SP"
-  },
-  {
-   "votacao_id": "camara:2655708-8",
-   "parlamentar_id": "camara:204566",
-   "motivo": "nao_consta_na_lista_de_votos",
-   "nome": "Marreca Filho",
-   "partido": "PODE",
-   "uf": "MA"
   },
   {
    "votacao_id": "camara:2655708-8",
@@ -317,6 +317,14 @@
   },
   {
    "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:204566",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Marreca Filho",
+   "partido": "PRD",
+   "uf": "MA"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
    "parlamentar_id": "camara:160548",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Jonas Donizette",
@@ -341,6 +349,14 @@
   },
   {
    "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:160518",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Weliton Prado",
+   "partido": "PSD",
+   "uf": "MG"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
    "parlamentar_id": "camara:220565",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Delegada Adriana Accorsi",
@@ -354,6 +370,14 @@
    "nome": "Gilmar Machado",
    "partido": "PT",
    "uf": "MG"
+  },
+  {
+   "votacao_id": "camara:2655708-8",
+   "parlamentar_id": "camara:162067",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Kiko Celeguim",
+   "partido": "PT",
+   "uf": "SP"
   },
   {
    "votacao_id": "camara:2655708-8",

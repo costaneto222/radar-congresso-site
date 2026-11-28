@@ -201,6 +201,14 @@
   },
   {
    "votacao_id": "camara:2655570-39",
+   "parlamentar_id": "camara:225846",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Itamar Paim",
+   "partido": "PL",
+   "uf": "PR"
+  },
+  {
+   "votacao_id": "camara:2655570-39",
    "parlamentar_id": "camara:204526",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Luiz Philippe de Orleans e Bragança",
@@ -222,6 +230,22 @@
    "nome": "Pedro Paulo",
    "partido": "PSD",
    "uf": "RJ"
+  },
+  {
+   "votacao_id": "camara:2655570-39",
+   "parlamentar_id": "camara:160518",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Weliton Prado",
+   "partido": "PSD",
+   "uf": "MG"
+  },
+  {
+   "votacao_id": "camara:2655570-39",
+   "parlamentar_id": "camara:162067",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Kiko Celeguim",
+   "partido": "PT",
+   "uf": "SP"
   },
   {
    "votacao_id": "camara:2655570-39",

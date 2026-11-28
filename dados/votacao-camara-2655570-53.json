@@ -224,6 +224,14 @@
   },
   {
    "votacao_id": "camara:2655570-53",
+   "parlamentar_id": "camara:225846",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Itamar Paim",
+   "partido": "PL",
+   "uf": "PR"
+  },
+  {
+   "votacao_id": "camara:2655570-53",
    "parlamentar_id": "camara:178954",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Lucio Mosquini",
@@ -261,14 +269,6 @@
    "nome": "Vinicius Carvalho",
    "partido": "PL",
    "uf": "SP"
-  },
-  {
-   "votacao_id": "camara:2655570-53",
-   "parlamentar_id": "camara:204566",
-   "motivo": "nao_consta_na_lista_de_votos",
-   "nome": "Marreca Filho",
-   "partido": "PODE",
-   "uf": "MA"
   },
   {
    "votacao_id": "camara:2655570-53",
@@ -328,6 +328,14 @@
   },
   {
    "votacao_id": "camara:2655570-53",
+   "parlamentar_id": "camara:204566",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Marreca Filho",
+   "partido": "PRD",
+   "uf": "MA"
+  },
+  {
+   "votacao_id": "camara:2655570-53",
    "parlamentar_id": "camara:220662",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Lucas Ramos",
@@ -376,6 +384,14 @@
   },
   {
    "votacao_id": "camara:2655570-53",
+   "parlamentar_id": "camara:160518",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Weliton Prado",
+   "partido": "PSD",
+   "uf": "MG"
+  },
+  {
+   "votacao_id": "camara:2655570-53",
    "parlamentar_id": "camara:74646",
    "motivo": "nao_consta_na_lista_de_votos",
    "nome": "Aécio Neves",
@@ -405,6 +421,14 @@
    "nome": "Joseildo Ramos",
    "partido": "PT",
    "uf": "BA"
+  },
+  {
+   "votacao_id": "camara:2655570-53",
+   "parlamentar_id": "camara:162067",
+   "motivo": "nao_consta_na_lista_de_votos",
+   "nome": "Kiko Celeguim",
+   "partido": "PT",
+   "uf": "SP"
   },
   {
    "votacao_id": "camara:2655570-53",
